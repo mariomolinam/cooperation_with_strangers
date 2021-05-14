@@ -1,0 +1,600 @@
+"city","PD_test_1","PD_test_2","age","education","gender","hukou","industry","firm_size","attention_check","similar_situations","population","treatment","cooperation","own_company","income","employment_status","treatment_agree"
+"Shanghai","16.5","6.6",30,"college degree","male","urban","建筑","more than 500","5","yes","managers","R",0,"no","60-100k","employed",3
+"Shanghai","16.5","6.6",30,"college degree","female","urban",NA,NA,"5","no","managers","R",0,"no","60-100k","unemployed",3
+"Shanghai","16.5","6.6",42,"some college","female","urban","服务业","101-300","5","idk","managers","N",0,"no","100-150k","employed",2
+"Shanghai","165","66",38,"college degree","male","urban","国际贸易","301-500","5","no","managers","N",1,"no","more than 150k","employed",3
+"Shanghai","16.5","6.6",37,"advanced degree","male","urban","银行","more than 500","5","no","managers","N",1,"no","more than 150k","employed",3
+"Shanghai","5","4",44,"some college","male","urban","贸易","more than 500","5","no","managers","R",1,"no","100-150k","employed",5
+"Shanghai","16.5","26.3",35,"high school","female","urban","一加投资","10-100","5","no","managers","N",0,"yes","less than 30k","employed",3
+"Shanghai","16.5","6.6",36,"college degree","female","urban","教育","10-100","5","no","managers","N",0,"no","more than 150k","employed",4
+"Shanghai","16.5","6.6",23,"college degree","female","rural","建筑业","more than 500","5","no","managers","R",0,"no","more than 150k","employed",2
+"Shanghai","16.5","3.3",39,"college degree","female","urban","付费通","101-300","5","no","managers","R",1,"no","more than 150k","employed",3
+"Shanghai","16.5","6.6",38,"some college","female","urban","出租车行业管理","more than 500","5","no","managers","N",1,"no","60-100k","employed",5
+"Shanghai","16.5","6.6",29,"advanced degree","male","rural","it","10-100","5","no","managers","N",0,"yes","more than 150k","employed",3
+"Shanghai","16.5","6.6",24,"college degree","female","urban","制造业","101-300","5","yes","managers","N",1,"no","100-150k","employed",2
+"Shanghai","16.5","6.6",35,"college degree","female","urban","金融","101-300","5","yes","managers","N",1,"yes","more than 150k","employed",2
+"Shanghai","16.5","6.6",24,"some college","female","urban","采购","10-100","5","yes","managers","R",0,"yes","more than 150k","self employed",4
+"Shanghai","16.5","3.3",35,"advanced degree","female","urban","天然气公司","301-500","5","yes","managers","N",1,"yes","60-100k","employed",5
+"Shanghai","16.5","6.6",30,"college degree","male","rural","汽车","more than 500","5","no","managers","R",0,"no","100-150k","employed",3
+"Shanghai","16.5","6.6",24,"college degree","female","rural","制造业","more than 500","5","no","managers","R",0,"no","30-60k","employed",3
+"Shanghai","525","253",22,"some college","male","urban",NA,NA,"5","yes","managers","N",1,"yes","60-100k","unemployed",5
+"Shanghai","16.5","6.6",41,"college degree","male","rural","汽配","101-300","5","no","managers","R",0,"no","30-60k","employed",3
+"Shanghai","16.5","6.6",28,"college degree","male","urban","互联网","more than 500","5","no","managers","R",0,"no","more than 150k","employed",2
+"Shanghai","16.5","6.6",40,"some college","female","urban","教育","301-500","5","idk","managers","N",1,"prefer not to answer","60-100k","employed",3
+"Shanghai","6.6","6",25,"less than high school","male","rural","农家乐","less than 10","5","yes","managers","R",0,"yes","60-100k","self employed",3
+"Shanghai","100","100",28,"some college","female","rural",NA,NA,"5","yes","managers","R",1,"no","30-60k","unemployed",4
+"Shanghai","165","16",24,"college degree","female","urban","建筑","10-100","5","yes","managers","N",0,"yes","60-100k","employed",4
+"Shanghai","26","6.6",30,"college degree","female","urban","通信","more than 500","5","yes","managers","R",1,"yes","more than 150k","self employed",5
+"Shanghai","165","66",40,"college degree","male","urban","汽车服务","101-300","5","no","managers","R",1,"prefer not to answer","more than 150k","employed",4
+"Shanghai","16.5","6.6",40,"college degree","female","urban","化工","more than 500","5","yes","managers","N",1,"prefer not to answer","more than 150k","employed",3
+"Shanghai","16.3","26.3",28,"advanced degree","male","urban","建筑业","301-500","5","yes","managers","R",1,"yes","more than 150k","employed",3
+"Shanghai","16.5","6.6",40,"some college","female","urban","物业管理","10-100","5","no","managers","R",0,"no","more than 150k","employed",1
+"Shanghai","16.5","6.6",24,"college degree","female","urban","餐饮服务业","10-100","5","no","managers","N",1,"no","30-60k","employed",3
+"Shanghai","165","66",25,"college degree","male","urban","旅游","10-100","5","yes","managers","R",0,"yes","100-150k","self employed",2
+"Shanghai","16.5","6.6",42,"advanced degree","female","urban","教育","more than 500","5","no","managers","N",1,"no","more than 150k","employed",3
+"Shanghai","16.5","6.6",33,"some college","female","urban","社工","more than 500","5","yes","managers","R",0,"yes","more than 150k","employed",4
+"Shanghai","16.5","6.6",38,"college degree","female","urban","互联网","more than 500","5","no","managers","R",1,"no","more than 150k","employed",4
+"Shanghai","26.3","26.3",45,"some college","female","urban","酒店业","101-300","5","no","managers","N",1,"no","60-100k","employed",4
+"Shanghai","16.5","6.6",33,"college degree","female","urban","电子信息","more than 500","5","yes","managers","R",1,"yes","100-150k","employed",4
+"Shanghai","16.5","6.6",53,"college degree","female","urban","服务","101-300","5","no","managers","N",1,"no","more than 150k","employed",4
+"Shanghai","16.5","6.6",27,"advanced degree","female","rural","咨询","301-500","5","yes","managers","N",1,"yes","60-100k","employed",3
+"Shanghai","16.5","6.6",40,"college degree","female","urban","贸易","10-100","5","no","managers","R",0,"prefer not to answer","more than 150k","employed",4
+"Shanghai","16.5","6.6",23,"college degree","male","urban","建筑","10-100","5","no","managers","N",1,"no","60-100k","employed",3
+"Shanghai","16.5","6.6",26,"college degree","male","rural","制造业","more than 500","5","no","managers","R",0,"no","100-150k","employed",4
+"Shanghai","16.5","6.6",25,"some college","male","rural","IT信息技术","101-300","5","no","managers","N",1,"yes","more than 150k","employed",5
+"Shanghai","16.5","6.6",23,"college degree","male","rural","教育","more than 500","5","no","managers","R",0,"no","100-150k","employed",3
+"Shanghai","16.5","6.6",45,"college degree","female","urban","房产","10-100","5","idk","managers","R",1,"yes","60-100k","self employed",3
+"Shanghai","16.5","6.6",26,"college degree","female","urban","金融业","101-300","5","no","managers","N",0,"no","60-100k","employed",5
+"Shanghai","19.9","29.9",48,"college degree","male","urban","乘用车制造","more than 500","5","yes","managers","R",0,"yes","more than 150k","employed",4
+"Shanghai","16.5","6.6",27,"college degree","female","rural","教育","more than 500","5","yes","managers","N",0,"no","100-150k","employed",3
+"Shanghai","16.5","6.6",36,"college degree","female","urban","进出口","101-300","5","idk","managers","N",0,"no","60-100k","employed",2
+"Shanghai","16.5","6.6",33,"college degree","male","urban","贸易","301-500","5","yes","managers","R",0,"yes","more than 150k","employed",3
+"Shanghai","16.5","6.6",29,"college degree","male","urban","高科文化","101-300","5","yes","managers","N",0,"yes","60-100k","employed",3
+"Shanghai","16.5","6.6",27,"advanced degree","female","urban","金融","more than 500","5","yes","managers","N",0,"no","more than 150k","employed",5
+"Shanghai","16.5","6.6",30,"college degree","male","rural","化工","10-100","5","yes","managers","N",1,"no","60-100k","employed",2
+"Shanghai","16.5","6.6",35,"college degree","male","urban","上海百联集团","more than 500","5","no","managers","R",0,"yes","more than 150k","employed",4
+"Shanghai","16.5","6.6",35,"college degree","male","rural","软件信息","more than 500","5","no","managers","R",0,"yes","more than 150k","employed",4
+"Shanghai","6.6","6.6",31,"some college","female","rural","制作业","10-100","5","no","managers","N",0,"yes","more than 150k","self employed",4
+"Shanghai","16.5","6.6",40,"college degree","male","urban","国际物流","more than 500","5","no","managers","R",0,"no","more than 150k","employed",3
+"Shanghai","16.5","6.6",32,"college degree","female","urban","It","10-100","5","no","managers","N",1,"yes","30-60k","employed",3
+"Shanghai","16.5","6.6",32,"college degree","female","urban","科研","more than 500","5","no","managers","R",0,"no","60-100k","employed",3
+"Shanghai","16.5","6.6",29,"college degree","male","urban","科研技术","more than 500","5","no","managers","N",0,"no","100-150k","employed",4
+"Hangzhou","16.5","6.6",24,"college degree","female","rural","教育","10-100","5","yes","managers","N",1,"yes","more than 150k","employed",4
+"Hangzhou","16","3.3",19,"some college","female","rural",NA,NA,"5","yes","managers","R",1,"yes","less than 30k","unemployed",1
+"Hangzhou","16","6",30,"college degree","male","rural","机械","10-100","5","no","managers","N",0,"yes","more than 150k","employed",4
+"Hangzhou","16.5","6.6",38,"some college","female","rural","批发零售","10-100","5","yes","managers","N",0,"yes","100-150k","self employed",1
+"Hangzhou","35","12",37,"college degree","male","urban","宏达","10-100","5","yes","managers","R",1,"yes","60-100k","self employed",4
+"Hangzhou","16.5","6.6",26,"college degree","female","rural","外贸进出口","10-100","5","yes","managers","N",0,"no","more than 150k","employed",3
+"Hangzhou","165","66",38,"some college","female","rural","制造业","10-100","5","yes","managers","R",0,"yes","100-150k","employed",2
+"Hangzhou","16.5","6.6",20,"high school","male","urban","传媒体","101-300","5","no","managers","N",1,"yes","30-60k","employed",5
+"Hangzhou","70","40",25,"some college","male","rural","领导","101-300","3","yes","managers","R",1,"yes","more than 150k","self employed",2
+"Hangzhou","16.5","6.6",26,"some college","female","rural","互联网","less than 10","7","no","managers","R",1,"no","less than 30k","employed",4
+"Hangzhou","26.3","6.6",25,"college degree","male","rural","外贸","10-100","5","no","managers","N",0,"no","60-100k","employed",5
+"Hangzhou","16.5","6.6",22,"college degree","female","urban","销售","10-100","5","no","managers","R",0,"no","less than 30k","employed",4
+"Hangzhou","5000","3000",35,"high school","male","urban","商业","10-100","5","yes","managers","N",1,"yes","60-100k","self employed",3
+"Hangzhou","16.5","6.6",32,"college degree","female","urban","制造业","10-100","5","no","managers","N",0,"no","100-150k","employed",1
+"Hangzhou","16.5","6.6",26,"college degree","female","rural","制造业","10-100","5","no","managers","N",0,"no","60-100k","employed",3
+"Hangzhou","16.5","6.6",22,"college degree","female","urban",NA,NA,"5","yes","managers","R",0,"no","100-150k","unemployed",4
+"Hangzhou","16.5","6.6",37,"some college","male","urban","杭州东岱饰品有限公司","more than 500","5","no","managers","R",1,"no","100-150k","employed",2
+"Hangzhou","16.5","6.6",30,"college degree","female","rural","零售","more than 500","5","no","managers","N",1,"no","more than 150k","employed",2
+"Hangzhou","16.5","6.6",33,"college degree","male","urban","制造业","301-500","5","no","managers","N",0,"no","100-150k","employed",5
+"Hangzhou","16.5","6.6",30,"college degree","female","rural","拘留所","10-100","5","yes","managers","N",1,"no","less than 30k","employed",3
+"Hangzhou","16.5","6.6",26,"college degree","female","urban","服装","101-300","5","yes","managers","N",0,"yes","60-100k","employed",5
+"Hangzhou","13.6","3.6",33,"college degree","male","rural","红树林","101-300","5","no","managers","R",1,"yes","100-150k","employed",3
+"Hangzhou","16.5","6.6",32,"high school","male","urban","制造业","more than 500","5","idk","managers","R",0,"yes","100-150k","employed",4
+"Hangzhou","60000","60000",31,"some college","female","rural","建筑","10-100","5","no","managers","N",0,"prefer not to answer","100-150k","employed",4
+"Hangzhou","3680","16.5",20,"college degree","male","rural","it","less than 10","5","yes","managers","R",1,"yes","30-60k","employed",1
+"Hangzhou","16.5","6.6",31,"college degree","female","urban","零售","10-100","5","no","managers","R",0,"no","more than 150k","employed",3
+"Hangzhou","33","33",25,"college degree","male","rural","北山口","101-300","5","yes","managers","N",1,"yes","100-150k","employed",2
+"Hangzhou","16.5","16",33,"high school","male","urban","餐饮","10-100","4","no","managers","R",1,"no","60-100k","self employed",2
+"Hangzhou","16.5","6.6",25,"some college","male","rural","制造业","101-300","5","yes","managers","N",0,"yes","60-100k","employed",2
+"Hangzhou","2.2","2",22,"college degree","male","rural","总管","101-300","5","yes","managers","R",0,"no","30-60k","employed",2
+"Hangzhou","16.5","3.3",30,"college degree","male","urban","名品国际","10-100","5","no","managers","N",1,"yes","60-100k","employed",2
+"Hangzhou","16.5","6.6",25,"college degree","female","urban","销售","301-500","5","yes","managers","R",0,"no","60-100k","employed",4
+"Hangzhou","16.5","16.5",33,"some college","male","rural","制造业","101-300","5","no","managers","N",1,"yes","100-150k","employed",4
+"Hangzhou","16.5","26.5",28,"college degree","female","rural","员工","10-100","5","idk","managers","R",0,"yes","60-100k","employed",4
+"Hangzhou","16.5","6.6",23,"some college","female","urban","财务","301-500","5","idk","managers","R",1,"no","60-100k","employed",3
+"Hangzhou","16.5","6.6",23,"college degree","male","urban","土木工程设计类","less than 10","5","idk","managers","R",1,"no","100-150k","employed",4
+"Hangzhou","16.5","6.6",29,"college degree","female","rural","教育","10-100","5","yes","managers","R",0,"yes","more than 150k","employed",1
+"Hangzhou","16.5","6.6",28,"college degree","female","urban","制造业","101-300","5","no","managers","R",0,"yes","60-100k","employed",4
+"Hangzhou","16.5","6.6",22,"college degree","female","rural","跨境电商","10-100","5","no","managers","R",1,"no","60-100k","employed",3
+"Hangzhou","16.5","3.3",22,"some college","male","rural","互联网","10-100","5","yes","managers","N",1,"yes","60-100k","self employed",1
+"Hangzhou","16","6",30,"college degree","male","rural","纺织","10-100","5","no","managers","N",0,"yes","60-100k","employed",4
+"Hangzhou","16.5","6.6",24,"college degree","female","rural","零售业","101-300","5","yes","managers","R",1,"no","100-150k","employed",3
+"Hangzhou","16.5","3.3",22,"college degree","female","rural","互联网","more than 500","4","no","managers","R",1,"yes","60-100k","employed",2
+"Hangzhou","16.5","6.6",25,"advanced degree","female","rural","信息行业","more than 500","5","no","managers","R",1,"no","more than 150k","employed",4
+"Hangzhou","3500","23.6",30,"less than high school","female","rural","浙江温州","101-300","5","yes","managers","N",1,"yes","30-60k","self employed",3
+"Hangzhou","16.5","6.6",36,"college degree","male","urban","制造业","101-300","5","no","managers","N",0,"yes","more than 150k","employed",4
+"Hangzhou","16.5","26.3",36,"advanced degree","female","urban","制造业","101-300","5","yes","managers","N",0,"yes","more than 150k","employed",3
+"Hangzhou","16.5","6.6",24,"college degree","female","rural","互联网","more than 500","5","yes","managers","R",0,"no","30-60k","employed",2
+"Hangzhou","165","66",34,"some college","female","rural","制造业","10-100","5","no","managers","R",1,"no","more than 150k","employed",4
+"Hangzhou","16.5","6.6",25,"some college","male","urban","互联网","less than 10","5","no","managers","R",0,"yes","30-60k","self employed",3
+"Hangzhou","16.5","6.6",25,"advanced degree","female","urban","地产","301-500","5","yes","managers","R",0,"no","30-60k","employed",1
+"Hangzhou","16.5","6.6",23,"high school","female","rural","水泵生产厂家","10-100","5","no","managers","R",1,"yes","60-100k","employed",2
+"Hangzhou","16.5","6.6",18,"college degree","male","urban","网络科技","more than 500","5","yes","managers","N",0,"yes","more than 150k","employed",5
+"Hangzhou","16.5","6.6",22,"some college","female","rural","装修","10-100","5","idk","managers","N",0,"no","100-150k","employed",3
+"Hangzhou","16.5","6.6",28,"college degree","male","urban","医药","10-100","5","no","managers","N",0,"no","more than 150k","employed",4
+"Hangzhou","3.3","16.5",30,"college degree","female","urban","纺织","more than 500","5","no","managers","R",1,"no","100-150k","employed",4
+"Hangzhou","16.5","6.6",37,"college degree","male","rural","企事业单位","301-500","5","no","managers","R",0,"no","60-100k","employed",4
+"Hangzhou","16.5","16",30,"college degree","male","rural","金融","10-100","5","no","managers","N",0,"yes","100-150k","employed",4
+"Hangzhou","16.5","6.6",26,"college degree","male","urban","贸易","101-300","5","no","managers","N",1,"yes","60-100k","employed",4
+"Hangzhou","23","16",34,"college degree","male","rural","制造","more than 500","5","yes","managers","N",1,"no","100-150k","employed",4
+"Wenzhou","16.5","6.6",24,"some college","female","rural","建筑业","301-500","5","no","managers","N",1,"no","60-100k","employed",2
+"Wenzhou","16.5","6.6",32,"college degree","male","urban","地质勘探员","101-300","5","yes","managers","R",0,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",32,"college degree","female","urban","进出口贸易","101-300","5","yes","managers","R",1,"no","more than 150k","employed",2
+"Wenzhou","16.5","6.6",30,"college degree","male","urban","制造业","301-500","5","yes","managers","N",1,"no","more than 150k","employed",4
+"Wenzhou","16.5","6.6",35,"some college","female","rural","淘宝","less than 10","5","no","managers","R",1,"yes","60-100k","self employed",4
+"Wenzhou","16.5","26.3",25,"some college","female","urban","制造","101-300","5","yes","managers","N",0,"yes","more than 150k","self employed",4
+"Wenzhou","16.5","16.5",28,"some college","male","urban","服务类住宿类","10-100","5","yes","managers","R",1,"yes","100-150k","self employed",4
+"Wenzhou","16.5","6.6",28,"some college","female","rural","电子生产","301-500","5","no","managers","N",1,"no","60-100k","employed",3
+"Wenzhou","16.5","6.6",38,"some college","female","urban","制造业","10-100","5","no","managers","R",1,"yes","60-100k","employed",3
+"Wenzhou","25","23",28,"college degree","female","rural","制造业","301-500","5","yes","managers","N",1,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",25,"some college","male","rural","科技","less than 10","5","yes","managers","R",1,"no","60-100k","employed",3
+"Wenzhou","200","150",26,"high school","male","rural","数控机床","10-100","5","yes","managers","R",1,"no","30-60k","employed",4
+"Wenzhou","16.5","6.6",25,"college degree","female","urban","计算机","101-300","5","yes","managers","R",1,"no","more than 150k","employed",2
+"Wenzhou","16.5","6.6",26,"college degree","female","urban","教育","101-300","5","yes","managers","N",0,"no","more than 150k","employed",3
+"Wenzhou","16.5","6.6",35,"college degree","male","urban","建筑","101-300","5","no","managers","N",1,"no","more than 150k","employed",5
+"Wenzhou","165","66",37,"college degree","male","urban","期货","101-300","5","yes","managers","R",1,"no","more than 150k","employed",2
+"Wenzhou","22","5",30,"advanced degree","male","urban","腾讯","more than 500","5","yes","managers","R",1,"yes","more than 150k","self employed",2
+"Wenzhou","16.5","6.6",36,"college degree","male","rural","建筑业","more than 500","5","yes","managers","R",1,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",28,"college degree","female","urban","设计","10-100","5","no","managers","N",0,"yes","100-150k","employed",2
+"Wenzhou","16.5","6.6",22,"college degree","male","urban","金融","more than 500","5","no","managers","R",0,"no","more than 150k","employed",3
+"Wenzhou","16.5","6.6",47,"college degree","female","urban","汉通酒店管理有限公司","10-100","5","idk","managers","N",1,"yes","60-100k","employed",2
+"Wenzhou","16.5","6.6",29,"some college","male","rural","施工管理","more than 500","5","no","managers","R",0,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",26,"college degree","male","urban","杭州星物语科技有限公司","more than 500","5","no","managers","N",0,"yes","100-150k","employed",3
+"Wenzhou","16.5","6.6",28,"college degree","female","urban","服务行业","10-100","5","yes","managers","N",1,"no","60-100k","employed",2
+"Wenzhou","16.5","6.6",30,"college degree","male","urban","机械工程","more than 500","5","yes","managers","N",1,"yes","more than 150k","self employed",4
+"Wenzhou","16.5","6.6",36,"some college","male","urban","建筑材料制造业","301-500","5","no","managers","R",1,"yes","100-150k","employed",3
+"Wenzhou","16.5","16.5",26,"college degree","male","urban","销售","10-100","5","no","managers","N",0,"no","60-100k","employed",4
+"Wenzhou","16.5","6.6",46,"college degree","male","urban","宁波汉通酒店管理咨询有限公司","101-300","5","yes","managers","N",1,"yes","less than 30k","employed",4
+"Wenzhou","16.5","6.6",40,"college degree","male","urban","交通","more than 500","5","no","managers","R",0,"yes","more than 150k","employed",4
+"Wenzhou","26.5","3.3",40,"high school","male","rural","制造业","101-300","5","yes","managers","R",1,"no","60-100k","employed",2
+"Wenzhou","16.5","6.6",36,"advanced degree","male","urban","制造业","101-300","5","yes","managers","N",0,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",33,"college degree","male","urban","电子商务","10-100","5","no","managers","N",1,"yes","more than 150k","employed",3
+"Wenzhou","16.5","6.6",23,"college degree","female","rural","电子商务","101-300","5","yes","managers","R",0,"no","60-100k","employed",4
+"Wenzhou","16.5","6.6",35,"college degree","male","urban","制造业","301-500","5","yes","managers","R",0,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",36,"college degree","male","urban","制造业","301-500","5","no","managers","N",0,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",25,"college degree","male","rural","电商","101-300","5","no","managers","N",0,"no","100-150k","employed",5
+"Wenzhou","16.5","3.3",24,"high school","male","rural","京东快递","more than 500","5","no","managers","R",0,"prefer not to answer","less than 30k","employed",3
+"Wenzhou","16.5","6.6",28,"college degree","female","urban","金融业","101-300","5","no","managers","R",0,"yes","60-100k","employed",4
+"Wenzhou","16.5","6.6",30,"college degree","male","rural","配件批发","10-100","5","no","managers","N",0,"yes","60-100k","self employed",4
+"Wenzhou","16.5","6.6",32,"college degree","female","urban","服务业","10-100","5","yes","managers","N",0,"yes","more than 150k","employed",1
+"Wenzhou","16.5","6.6",33,"high school","female","urban","服务业","10-100","5","yes","managers","R",0,"no","100-150k","employed",2
+"Wenzhou","16.5","6.6",31,"some college","female","urban","制造业","10-100","5","yes","managers","N",0,"no","100-150k","employed",1
+"Wenzhou","16.5","6.6",32,"some college","female","urban","制造业","10-100","5","no","managers","R",0,"yes","100-150k","employed",1
+"Wenzhou","16.5","6.6",34,"college degree","female","urban","制造业","10-100","5","no","managers","N",0,"no","more than 150k","employed",1
+"Wenzhou","16.5","6.6",33,"college degree","female","urban","制造业","10-100","5","no","managers","N",0,"no","more than 150k","employed",1
+"Wenzhou","16.5","6.6",28,"some college","female","urban","制造业","301-500","5","no","managers","R",0,"no","more than 150k","employed",4
+"Wenzhou","16.5","6.6",36,"college degree","male","rural","建筑业","101-300","5","no","managers","N",1,"yes","more than 150k","employed",3
+"Wenzhou","16.5","6.6",32,"college degree","female","urban","制造业","10-100","5","no","managers","R",0,"no","more than 150k","employed",1
+"Wenzhou","6.6","6.6",42,"college degree","female","urban","港口","more than 500","5","idk","managers","N",0,"no","60-100k","employed",3
+"Wenzhou","16.5","6.6",39,"college degree","female","urban","建筑鉴定","10-100","5","no","managers","R",1,"yes","100-150k","employed",4
+"Wenzhou","16.5","6.6",36,"college degree","female","rural","物业","more than 500","5","yes","managers","R",1,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",30,"college degree","female","urban","机械工程","101-300","5","yes","managers","N",1,"yes","more than 150k","self employed",4
+"Wenzhou","16.5","6.6",27,"college degree","male","urban","信息技术","101-300","5","no","managers","R",0,"no","100-150k","self employed",2
+"Wenzhou","16.5","6.6",29,"some college","male","rural","信息技术","101-300","5","no","managers","N",0,"no","60-100k","self employed",2
+"Wenzhou","16.5","6.6",30,"college degree","female","urban","金融","101-300","5","no","managers","N",0,"no","100-150k","self employed",3
+"Wenzhou","16.5","6.6",23,"college degree","male","urban","建筑业","101-300","5","no","managers","N",1,"no","more than 150k","employed",5
+"Wenzhou","16.5","6.6",29,"some college","male","rural","建筑业","more than 500","5","no","managers","R",1,"no","60-100k","employed",5
+"Wenzhou","16.5","6.6",33,"advanced degree","male","urban","化工行业","301-500","5","no","managers","N",1,"yes","more than 150k","self employed",4
+"Wenzhou","16.5","6.6",28,"college degree","male","rural","制造业","101-300","5","no","managers","R",1,"yes","100-150k","employed",4
+"Wenzhou","16.5","6.6",32,"college degree","male","rural","建筑业","more than 500","5","no","managers","N",0,"no","more than 150k","employed",2
+"Nanjing","16.5","6.6",20,"college degree","female","urban",NA,NA,"5","yes","managers","R",1,"no","more than 150k","unemployed",2
+"Nanjing","16.5","6.6",29,"college degree","female","rural","化工行业","101-300","5","no","managers","N",0,"no","100-150k","employed",4
+"Nanjing","6.6","26",30,"some college","male","rural","服务","301-500","5","yes","managers","N",1,"yes","100-150k","employed",4
+"Nanjing","26.3","16.3",23,"some college","male","rural","制造业","10-100","5","yes","managers","R",0,"no","60-100k","employed",1
+"Nanjing","33","13",35,"high school","male","urban","服务","10-100","5","yes","managers","R",1,"yes","100-150k","employed",4
+"Nanjing","26","26",45,"some college","female","urban","制造业","301-500","5","idk","managers","R",1,"no","100-150k","employed",3
+"Nanjing","16.5","3.3",26,"some college","female","rural","制造业","301-500","5","yes","managers","R",1,"yes","60-100k","employed",3
+"Nanjing","16.5","6.6",27,"less than high school","female","rural","金融","10-100","5","yes","managers","R",1,"no","60-100k","employed",4
+"Nanjing","16.5","6.6",48,"less than high school","male","rural","机械制造","more than 500","5","no","managers","R",0,"no","30-60k","employed",3
+"Nanjing","16.5","6.6",28,"college degree","female","rural","制造业","more than 500","5","yes","managers","R",1,"yes","more than 150k","employed",3
+"Nanjing","16.5","6.6",32,"college degree","female","urban","房地产业","more than 500","5","no","managers","N",0,"no","more than 150k","employed",4
+"Nanjing","16.5","6.6",24,"some college","female","urban","陶瓷","10-100","5","yes","managers","R",0,"yes","100-150k","employed",4
+"Nanjing","16.5","6.6",29,"college degree","female","urban","制造业","more than 500","5","no","managers","R",1,"no","100-150k","self employed",1
+"Nanjing","33","13.2",29,"advanced degree","female","urban","房地产","301-500","5","no","managers","N",1,"yes","30-60k","employed",2
+"Nanjing","16.5","6.6",29,"college degree","male","rural","制造业","more than 500","5","no","managers","R",1,"no","100-150k","self employed",1
+"Nanjing","16.5","6.6",26,"college degree","male","urban","服务业","10-100","5","no","managers","N",1,"yes","60-100k","employed",5
+"Nanjing","16.5","6.6",28,"college degree","female","urban","制造业","more than 500","5","yes","managers","R",1,"yes","100-150k","employed",1
+"Nanjing","16.5","3.3",23,"some college","female","rural","运营","101-300","5","yes","managers","R",1,"no","30-60k","employed",5
+"Nanjing","16.5","6.6",36,"some college","male","rural","外贸","301-500","5","yes","managers","N",1,"yes","100-150k","employed",3
+"Nanjing","16.5","6.6",55,"high school","male","rural","服务","less than 10","5","yes","managers","R",1,"yes","100-150k","employed",4
+"Nanjing","165","66",18,"college degree","male","urban","电子信息","10-100","5","yes","managers","N",0,"no","60-100k","self employed",4
+"Nanjing","29","23",23,"college degree","male","rural","服务业","10-100","5","yes","managers","R",1,"yes","60-100k","employed",4
+"Nanjing","16.5","6.6",44,"college degree","male","urban","政府公共事业","10-100","5","no","managers","R",0,"yes","more than 150k","employed",1
+"Nanjing","16.5","6.6",58,"some college","male","urban","IT","10-100","5","no","managers","R",0,"no","more than 150k","employed",2
+"Nanjing","16.5","6.6",32,"high school","female","urban","制造业","301-500","5","yes","managers","N",0,"yes","100-150k","employed",4
+"Nanjing","16.5","6.6",31,"college degree","female","rural","电子厂","101-300","5","yes","managers","R",1,"yes","more than 150k","employed",2
+"Nanjing","16.5","6.6",30,"college degree","female","urban","行政","301-500","5","no","managers","R",0,"no","60-100k","employed",1
+"Nanjing","5000","5000",27,"college degree","female","rural","制造业","10-100","7","no","managers","N",1,"no","60-100k","employed",3
+"Nanjing","16.5","6.6",28,"college degree","female","urban","制造业","more than 500","5","no","managers","R",1,"no","100-150k","employed",4
+"Nanjing","20","15",25,"college degree","male","urban","建筑","101-300","5","yes","managers","R",1,"yes","more than 150k","employed",4
+"Nanjing","16.5","6.6",33,"college degree","male","urban","服务业","10-100","5","no","managers","N",0,"yes","more than 150k","employed",3
+"Nanjing","16.5","3.3",36,"high school","male","rural","服务","10-100","5","yes","managers","N",1,"yes","100-150k","employed",4
+"Nanjing","8000","8000",26,"college degree","male","urban","hr","301-500","5","yes","managers","R",1,"no","30-60k","employed",1
+"Nanjing","16.5","6.6",30,"high school","male","urban","传媒","101-300","5","no","managers","R",0,"no","30-60k","employed",3
+"Nanjing","16.5","6.6",27,"high school","female","rural","金融","10-100","5","yes","managers","N",1,"no","60-100k","employed",4
+"Nanjing","2.3","2.3",33,"college degree","male","urban","金融","101-300","5","yes","managers","R",1,"no","100-150k","employed",4
+"Nanjing","16.5","6.6",28,"college degree","female","rural","制造","10-100","5","yes","managers","N",0,"no","60-100k","employed",3
+"Nanjing","26","6.6",28,"less than high school","female","rural","电子","301-500","5","yes","managers","N",1,"yes","30-60k","employed",5
+"Nanjing","16.5","6.6",26,"some college","male","rural","计算机软件","more than 500","5","no","managers","R",1,"no","60-100k","employed",5
+"Nanjing","16.5","6.6",39,"college degree","male","rural","健康","more than 500","5","no","managers","R",1,"no","more than 150k","employed",2
+"Nanjing","16.5","6.6",29,"college degree","female","urban","汽车零部件","301-500","5","no","managers","N",0,"no","60-100k","employed",4
+"Nanjing","16.5","6.6",28,"college degree","female","urban","餐饮","101-300","5","yes","managers","N",0,"yes","30-60k","self employed",4
+"Nanjing","165","66",24,"college degree","female","urban","贸易","10-100","5","yes","managers","R",0,"no","more than 150k","employed",4
+"Nanjing","16.5","6.6",29,"college degree","male","rural","能源","101-300","5","no","managers","N",0,"yes","100-150k","employed",4
+"Nanjing","16.5","6.6",29,"college degree","male","rural","制造业","more than 500","5","idk","managers","R",1,"no","60-100k","employed",4
+"Nanjing","5","8",36,"high school","female","rural","中钢天源","more than 500","5","yes","managers","R",1,"yes","60-100k","employed",4
+"Nanjing","42.8","9.9",31,"high school","female","rural","常州交通信息管理中心","101-300","5","idk","managers","N",1,"prefer not to answer","60-100k","employed",2
+"Nanjing","165","66",22,"some college","male","rural","机械","301-500","5","yes","managers","N",1,"no","30-60k","employed",4
+"Nanjing","16.5","6.6",24,"college degree","female","urban","教育培训","101-300","5","yes","managers","N",0,"no","more than 150k","employed",5
+"Nanjing","16.5","6.6",43,"some college","female","urban","新能源","101-300","5","yes","managers","R",1,"yes","more than 150k","employed",1
+"Nanjing","16.5","6.6",26,"college degree","male","urban","公共行业","101-300","5","yes","managers","N",1,"no","100-150k","employed",5
+"Nanjing","16.5","6.6",40,"high school","female","rural","星星","10-100","5","no","managers","R",1,"no","60-100k","employed",4
+"Nanjing","16","6",32,"some college","male","rural","钢材","101-300","5","no","managers","N",0,"no","60-100k","employed",2
+"Nanjing","16.5","6.6",23,"college degree","male","rural","商务","10-100","5","no","managers","N",0,"no","100-150k","employed",4
+"Nanjing","26.3","6.6",26,"some college","female","rural","电商","10-100","5","no","managers","R",1,"no","30-60k","employed",3
+"Nanjing","16.5","6.6",25,"college degree","female","rural","环保","10-100","5","no","managers","N",0,"no","30-60k","employed",3
+"Nanjing","26","6.6",33,"some college","female","urban","规定","101-300","5","yes","managers","R",1,"yes","100-150k","employed",3
+"Nanjing","18","16",35,"some college","female","urban","外贸","101-300","5","yes","managers","N",1,"yes","60-100k","employed",3
+"Nanjing","16.5","6.6",30,"college degree","female","urban","制造业","101-300","5","yes","managers","N",1,"yes","60-100k","employed",3
+"Changzhou","16.5","6.6",33,"college degree","male","urban","计算机","101-300","5","no","managers","N",1,"no","more than 150k","employed",3
+"Changzhou","16.5","6.6",30,"college degree","male","rural","制造业","101-300","5","yes","managers","N",1,"yes","60-100k","employed",4
+"Changzhou","165","303",29,"high school","male","urban","建筑","101-300","5","yes","managers","N",1,"yes","30-60k","self employed",3
+"Changzhou","16.5","6.6",31,"college degree","female","urban","服务行业","10-100","5","yes","managers","N",0,"yes","60-100k","employed",4
+"Changzhou","26","6",28,"college degree","male","urban","体育","more than 500","5","no","managers","R",0,"yes","60-100k","employed",2
+"Changzhou","42.8","9.9",33,"college degree","male","urban","制造业","301-500","5","no","managers","R",1,"no","100-150k","employed",4
+"Changzhou","16.5","6.6",30,"college degree","female","rural","文员","101-300","5","yes","managers","N",1,"no","100-150k","employed",4
+"Changzhou","16.5","6.6",34,"college degree","male","rural","制造业","more than 500","5","no","managers","R",1,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",26,"high school","female","rural","制造业","101-300","5","yes","managers","R",1,"no","60-100k","employed",4
+"Changzhou","16.5","6.6",35,"high school","female","rural","金融业","10-100","5","yes","managers","N",1,"yes","more than 150k","employed",4
+"Changzhou","16.5","6.6",28,"some college","female","rural","建筑业","10-100","5","no","managers","N",1,"prefer not to answer","60-100k","employed",4
+"Changzhou","6","6",25,"college degree","female","rural","华润","101-300","5","yes","managers","N",1,"yes","60-100k","self employed",2
+"Changzhou","100","100",32,"college degree","male","urban","计算机","10-100","5","yes","managers","R",1,"yes","30-60k","employed",3
+"Changzhou","16.5","3.3",28,"college degree","female","urban","财务","10-100","5","no","managers","N",1,"no","60-100k","employed",4
+"Changzhou","26.8","38",26,"college degree","male","urban","汽车","301-500","5","yes","managers","N",1,"no","100-150k","employed",1
+"Changzhou","263","33",38,"college degree","male","urban","制造","301-500","5","no","managers","R",1,"yes","100-150k","employed",4
+"Changzhou","16.5","6.6",31,"some college","male","urban","电子有限公司","101-300","5","yes","managers","N",1,"yes","30-60k","employed",4
+"Changzhou","16.5","6.6",27,"some college","female","rural","宏声传媒","10-100","5","yes","managers","R",1,"yes","60-100k","employed",4
+"Changzhou","15","13",26,"less than high school","male","urban","金融","10-100","5","yes","managers","N",1,"yes","100-150k","self employed",1
+"Changzhou","33","13.2",26,"college degree","male","urban","物流行业","more than 500","5","no","managers","R",1,"no","more than 150k","employed",3
+"Changzhou","16.5","6.6",27,"college degree","male","urban","制造业","101-300","5","no","managers","R",1,"no","100-150k","employed",4
+"Changzhou","16.5","6.6",29,"advanced degree","female","urban","旅游业","10-100","5","no","managers","N",0,"yes","more than 150k","self employed",5
+"Changzhou","16.5","6.6",31,"college degree","female","urban","保险行业","101-300","5","no","managers","N",0,"no","100-150k","employed",5
+"Changzhou","16.5","6.6",32,"advanced degree","male","urban","房地产","more than 500","5","no","managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","3.3",30,"some college","female","rural","松下科技有限公司","101-300","5","yes","managers","N",1,"yes","60-100k","employed",4
+"Changzhou","16.5","6.6",46,"college degree","male","urban","工程施工","301-500","5","idk","managers","N",0,"no","60-100k","employed",3
+"Changzhou","16.5","6.6",27,"college degree","female","urban","制造","10-100","5","yes","managers","R",1,"yes","100-150k","employed",2
+"Changzhou","16.5","6.6",27,"college degree","male","urban","询问设备","101-300","5","no","managers","N",0,"no","100-150k","employed",4
+"Changzhou","16.5","6.6",27,"college degree","male","urban","食品行业","more than 500","5","yes","managers","R",0,"yes","more than 150k","employed",2
+"Changzhou","16.5","6.6",28,"college degree","female","rural","旅游业","301-500","5","no","managers","R",0,"yes","100-150k","employed",5
+"Changzhou","16.5","6.6",32,"college degree","female","urban","加工","101-300","5","yes","managers","N",1,"yes","more than 150k","employed",2
+"Changzhou","16.5","3.3",26,"college degree","female","urban","电信公司","less than 10","5","yes","managers","N",1,"yes","100-150k","employed",3
+"Changzhou","16.5","6.6",29,"college degree","male","urban","律师","10-100","5","no","managers","R",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",35,"college degree","female","rural","制造业","more than 500","5","yes","managers","N",1,"no","100-150k","employed",2
+"Changzhou","16.5","6.6",45,"some college","male","urban","金融业","101-300","5","yes","managers","R",1,"yes","more than 150k","employed",3
+"Changzhou","6.6","3.3",37,"college degree","female","urban","投资公司","10-100","5","no","managers","N",1,"no","100-150k","employed",4
+"Changzhou","16.5","6.6",26,"some college","female","urban","国际金融","101-300","5","no","managers","N",1,"yes","100-150k","employed",2
+"Changzhou","16.5","6.6",40,"college degree","male","rural","机械","more than 500","5","no","managers","R",1,"yes","more than 150k","employed",1
+"Changzhou","16.5","6.6",24,"advanced degree","female","urban","教育行业","101-300","5","no","managers","R",0,"no","60-100k","employed",4
+"Changzhou","16.5","6.6",45,"college degree","male","urban","建筑业","more than 500","5","no","managers","N",0,"yes","more than 150k","employed",4
+"Changzhou","16.5","6.6",28,"college degree","male","urban","制造业","more than 500","5","yes","managers","R",0,"yes","more than 150k","employed",2
+"Changzhou","16.5","6.6",32,"college degree","female","urban","教育","10-100","5","no","managers","R",0,"yes","more than 150k","employed",4
+"Changzhou","16.5","6.6",32,"college degree","female","urban","金融","10-100","5","no","managers","N",0,"yes","60-100k","employed",3
+"Changzhou","16.5","3.3",34,"college degree","female","urban","房地产","101-300","5","yes","managers","N",1,"yes","more than 150k","employed",4
+"Changzhou","16.5","6.6",36,"college degree","female","urban","学前教育","10-100","5","no","managers","N",1,"no","60-100k","employed",1
+"Changzhou","16","11",36,"high school","male","urban","能源",NA,"5","no","managers","N",1,"no","30-60k","employed",3
+"Changzhou","16.5","6.6",32,"college degree","male","urban","金融","101-300","5","no","managers","N",1,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",35,"college degree","male","urban","水利","101-300","5","no","managers","R",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",33,"college degree","male","urban","教育业","301-500","5","no","managers","R",0,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",27,"college degree","female","urban","计算机行业","101-300","5","no","managers","R",0,"yes","more than 150k","self employed",5
+"Changzhou","16.5","6.6",28,"college degree","female","urban","教育行业","101-300","5","no","managers","R",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",32,"college degree","female","urban","房地产","more than 500","5","no","managers","R",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",30,"college degree","male","urban","计算机","101-300","5","no","managers","R",1,"yes","more than 150k","employed",2
+"Changzhou","16.5","6.6",32,"college degree","female","urban","金融行业","301-500","5","no","managers","R",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",32,"college degree","male","rural","镖马智能装备","101-300","5","no","managers","N",1,"no","100-150k","employed",1
+"Changzhou","16.5","6.6",29,"college degree","male","urban","建筑行业","more than 500","5","no","managers","R",0,"no","more than 150k","employed",5
+"Changzhou","26.3","6.6",40,"college degree","male","urban","制造业","10-100","5","yes","managers","N",1,"yes","more than 150k","employed",3
+"Changzhou","16.5","3.3",28,"college degree","male","urban","电子","301-500","5","yes","managers","R",0,"yes","100-150k","employed",2
+"Changzhou","16.5","6.6",35,"some college","female","urban","餐饮","10-100","5","no","managers","R",1,"yes","60-100k","employed",3
+"Changzhou","3.3","26.6",35,"college degree","male","rural","制造业","more than 500","5","no","managers","R",1,"yes","30-60k","employed",3
+"Shanghai","16.5","6.6",24,"advanced degree","female","rural",NA,NA,"5","no","non-managers","R",0,"yes","more than 150k","unemployed",3
+"Shanghai","16.5","6.6",41,"high school","male","urban","制造业","101-300","5","yes","non-managers","R",1,"no","more than 150k","employed",4
+"Shanghai","16.5","6.6",27,"advanced degree","female","urban","教育","101-300","5","no","non-managers","N",0,"yes","more than 150k","employed",4
+"Shanghai","16.5","6.6",19,"some college","female","urban",NA,NA,"5","no","non-managers","R",0,"no","more than 150k","unemployed",3
+"Shanghai","16.5","6.6",18,"college degree","female","rural",NA,NA,"5","no","non-managers","N",0,"prefer not to answer","30-60k","unemployed",4
+"Shanghai","16.5","6.6",35,"college degree","female","urban","IT","101-300","5","no","non-managers","R",0,"no","100-150k","employed",4
+"Shanghai","16.5","6.6",30,"college degree","female","urban","科技","301-500","5","no","non-managers","N",1,"yes","60-100k","employed",5
+"Shanghai","165","66",38,"college degree","female","urban","传媒","more than 500","5","no","non-managers","N",0,"yes","more than 150k","employed",3
+"Shanghai","16.5","6.6",23,"college degree","female","urban","金融","more than 500","5","no","non-managers","N",0,"no","100-150k","employed",3
+"Shanghai","16.5","6.6",21,"college degree","female","urban",NA,NA,"5","no","non-managers","N",0,"no","more than 150k","unemployed",3
+"Shanghai","16.3","6.6",23,"college degree","female","rural","开发商","101-300","5","yes","non-managers","N",1,"no","60-100k","employed",4
+"Shanghai","16.5","6.6",23,"advanced degree","female","urban",NA,NA,"5","no","non-managers","N",0,"prefer not to answer","60-100k","unemployed",4
+"Shanghai","16.5","6.6",19,"college degree","male","urban",NA,NA,"5","yes","non-managers","R",1,"yes","60-100k","unemployed",4
+"Shanghai","16.5","6.6",21,"less than high school","male","rural","钢材","10-100","6","yes","non-managers","R",0,"prefer not to answer","30-60k","employed",2
+"Shanghai","16.5","6.6",25,"advanced degree","female","urban","城市规划","301-500","5","no","non-managers","R",1,"no","more than 150k","employed",5
+"Shanghai","16.5","6.6",29,"college degree","male","rural","制造业","10-100","5","no","non-managers","N",1,"yes","60-100k","self employed",3
+"Shanghai","16.5","6.6",25,"advanced degree","female","urban",NA,NA,"5","yes","non-managers","R",0,"no","more than 150k","unemployed",4
+"Shanghai","16.5","6.6",24,"college degree","male","urban","批发业","10-100","5","no","non-managers","N",0,"yes","more than 150k","employed",4
+"Shanghai","16.5","6.6",23,"advanced degree","female","rural",NA,NA,"5","yes","non-managers","R",1,"no","100-150k","unemployed",5
+"Shanghai","16.5","6.6",29,"some college","female","urban",NA,NA,"5","yes","non-managers","N",1,"yes","100-150k","unemployed",4
+"Shanghai","16.5","6.6",19,"college degree","female","urban",NA,NA,"5","yes","non-managers","R",1,"no","100-150k","unemployed",3
+"Shanghai","16.5","6.6",22,"some college","male","urban","金融行业","10-100","5","no","non-managers","N",1,"yes","more than 150k","self employed",2
+"Shanghai","16.5","6.6",25,"college degree","female","urban","设计院","10-100","5","no","non-managers","R",1,"no","more than 150k","employed",4
+"Shanghai","16.5","6.6",27,"advanced degree","male","urban","互联网","10-100","5","no","non-managers","N",0,"no","100-150k","employed",4
+"Shanghai","16.5","6.6",40,"college degree","female","urban","制造业","101-300","5","no","non-managers","R",0,"no","more than 150k","employed",4
+"Shanghai","26","6",25,"college degree","female","urban","医疗","101-300","5","yes","non-managers","N",0,"no","60-100k","employed",3
+"Shanghai","16.5","6.6",41,"advanced degree","male","urban","证券","more than 500","5","no","non-managers","R",1,"yes","more than 150k","employed",2
+"Shanghai","16.5","6.6",35,"college degree","female","urban","制造业","10-100","5","no","non-managers","N",1,"no","more than 150k","employed",1
+"Shanghai","16.5","6.6",55,"college degree","female","urban",NA,NA,"5","no","non-managers","R",0,"no","more than 150k","unemployed",2
+"Shanghai","16.5","3.3",35,"some college","female","urban","服务","10-100","5","yes","non-managers","N",1,"no","less than 30k","employed",2
+"Shanghai","16.5","6.6",38,"college degree","female","urban","房地产","101-300","5","no","non-managers","N",0,"prefer not to answer","more than 150k","employed",4
+"Shanghai","16.5","6.6",21,"college degree","female","urban",NA,NA,"5","yes","non-managers","R",1,"yes","30-60k","unemployed",3
+"Shanghai","16.5","6.6",30,"college degree","male","urban","教育","101-300","5","no","non-managers","N",1,"no","more than 150k","employed",4
+"Shanghai","16.5","6.6",23,"college degree","female","urban","通讯","101-300","5","yes","non-managers","R",0,"no","60-100k","employed",2
+"Shanghai","16.5","3.3",30,"college degree","male","rural","金融","101-300","5","no","non-managers","N",1,"yes","more than 150k","employed",3
+"Shanghai","16.5","6.6",26,"college degree","male","urban","软件工程设计","101-300","5","yes","non-managers","N",0,"yes","60-100k","employed",3
+"Shanghai","16.5","6.6",24,"advanced degree","female","urban",NA,NA,"5","yes","non-managers","R",0,"no","more than 150k","unemployed",2
+"Shanghai","16.5","6.6",23,"college degree","female","urban","家具装修行业","more than 500","5","no","non-managers","R",0,"no","more than 150k","employed",4
+"Shanghai","16.5","6.6",20,"college degree","male","urban",NA,NA,"5","yes","non-managers","N",0,"no","more than 150k","unemployed",3
+"Shanghai","16.5","6.6",26,"college degree","male","urban","金融","301-500","5","no","non-managers","R",1,"no","more than 150k","employed",3
+"Shanghai","16.5","3.3",30,"less than high school","female","urban","上丰企业","less than 10","5","no","non-managers","N",1,"yes","more than 150k","self employed",4
+"Shanghai","16.5","6.6",24,"college degree","female","urban","医药公司","more than 500","7","no","non-managers","R",0,"yes","less than 30k","employed",4
+"Shanghai","16.5","6.6",25,"advanced degree","male","urban","互联网行业","more than 500","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Shanghai","26.3","6.6",27,"college degree","female","urban","物流","101-300","5","no","non-managers","R",0,"no","100-150k","employed",1
+"Shanghai","16.5","6.6",23,"college degree","female","rural","机械制造","more than 500","5","no","non-managers","N",1,"no","100-150k","employed",5
+"Shanghai","16.5","6.6",24,"college degree","female","urban","房地产","more than 500","5","no","non-managers","R",0,"no","100-150k","employed",3
+"Shanghai","16.5","6.6",27,"college degree","female","urban","制造业","101-300","5","yes","non-managers","R",1,"prefer not to answer","100-150k","employed",4
+"Shanghai","16.5","6.6",25,"college degree","female","urban","外资医药公司","more than 500","5","no","non-managers","R",0,"no","more than 150k","employed",4
+"Shanghai","16.5","6.6",28,"college degree","female","urban","咨询","10-100","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Shanghai","16.5","6.6",24,"college degree","female","urban","快递","301-500","5","no","non-managers","N",0,"no","100-150k","employed",4
+"Shanghai","16.5","6.6",37,"college degree","female","urban","金融","10-100","5","no","non-managers","N",1,"no","100-150k","employed",4
+"Shanghai","16.5","6.6",25,"college degree","female","urban","快消行业","more than 500","5","no","non-managers","R",0,"no","more than 150k","employed",4
+"Shanghai","16.5","6.6",26,"advanced degree","female","urban",NA,NA,"5","no","non-managers","N",1,"no","30-60k","unemployed",3
+"Shanghai","16.5","6.6",23,"college degree","female","urban","互联网","301-500","5","no","non-managers","R",1,"no","60-100k","employed",4
+"Shanghai","16.5","6.6",36,"college degree","male","urban","制造业","more than 500","5","no","non-managers","N",1,"no","more than 150k","employed",1
+"Shanghai","16.5","6.6",39,"college degree","male","urban","建筑","more than 500","5","no","non-managers","R",0,"yes","more than 150k","employed",3
+"Shanghai","16.5","6.6",26,"college degree","male","urban","建筑安装业","more than 500","5","no","non-managers","N",1,"no","100-150k","employed",4
+"Shanghai","16.5","6.6",28,"college degree","male","urban","制造业","301-500","5","no","non-managers","R",1,"yes","more than 150k","employed",3
+"Shanghai","16.5","6.6",25,"advanced degree","female","rural",NA,NA,"5","yes","non-managers","R",1,"no","30-60k","unemployed",4
+"Shanghai","16.5","6.6",26,"college degree","female","urban","医药","301-500","5","no","non-managers","R",1,"no","more than 150k","employed",2
+"Hangzhou","16.5","6.6",35,"college degree","male","urban","制造业","301-500","5","yes","non-managers","R",0,"no","30-60k","employed",4
+"Hangzhou","16.5","6.6",29,"advanced degree","female","rural","启行培训学校有限公司","10-100","5","yes","non-managers","N",0,"yes","100-150k","employed",3
+"Hangzhou","16.5","6.6",34,"college degree","female","urban","制造业","less than 10","5","yes","non-managers","R",1,"no","more than 150k","employed",5
+"Hangzhou","16.5","16.5",32,"less than high school","male","rural","加工","101-300","5","no","non-managers","R",0,"yes","30-60k","employed",4
+"Hangzhou","16.5","6.6",40,"college degree","female","urban","教培类","less than 10","5","no","non-managers","R",0,"yes","60-100k","self employed",5
+"Hangzhou","16.5","6.6",24,"college degree","female","rural","设计","101-300","5","no","non-managers","N",1,"prefer not to answer","30-60k","employed",3
+"Hangzhou","16.5","6.6",20,"college degree","female","urban",NA,NA,"5","no","non-managers","N",0,"no","more than 150k","unemployed",4
+"Hangzhou","16.5","6.6",21,"college degree","female","urban",NA,NA,"5","yes","non-managers","R",0,"no","60-100k","unemployed",4
+"Hangzhou","16.5","6.6",20,"some college","female","urban",NA,NA,"5","yes","non-managers","N",0,"no","more than 150k","unemployed",4
+"Hangzhou","16.5","6.6",24,"advanced degree","male","urban",NA,NA,"5","no","non-managers","R",0,"no","60-100k","unemployed",4
+"Hangzhou","16.5","6.6",21,"some college","female","rural","教育","10-100","7","no","non-managers","N",1,"no","30-60k","employed",1
+"Hangzhou","16.5","6.6",28,"college degree","female","rural","电商","less than 10","5","no","non-managers","R",0,"no","60-100k","employed",3
+"Hangzhou","6.6","6.6",24,"college degree","female","rural",NA,NA,"5","no","non-managers","R",0,"yes","less than 30k","unemployed",4
+"Hangzhou","16.5","6.6",19,"some college","female","rural",NA,NA,"5","no","non-managers","N",1,"no","100-150k","unemployed",4
+"Hangzhou","16.5","6.6",28,"college degree","male","urban","中国人寿保险","101-300","5","no","non-managers","R",0,"no","100-150k","employed",2
+"Hangzhou","16.5","6.6",23,"college degree","female","urban","医疗用品检测","10-100","5","no","non-managers","N",0,"yes","60-100k","employed",4
+"Hangzhou","42.8","9.9",25,"college degree","male","urban","传媒","10-100","5","no","non-managers","N",0,"prefer not to answer","60-100k","employed",1
+"Hangzhou","16.5","6.6",18,"some college","female","urban",NA,NA,"5","no","non-managers","N",0,"no","100-150k","unemployed",2
+"Hangzhou","16.5","6.6",23,"college degree","female","rural","沃尔沃","more than 500","5","no","non-managers","N",0,"yes","100-150k","employed",4
+"Hangzhou","16.5","6.6",32,"some college","male","rural","机械制造","101-300","5","no","non-managers","R",1,"no","100-150k","employed",1
+"Hangzhou","16.5","6.6",35,"some college","female","urban","制造业","more than 500","5","no","non-managers","N",1,"no","more than 150k","employed",4
+"Hangzhou","16.5","6.6",32,"some college","female","rural","日用品","less than 10","5","no","non-managers","N",1,"yes","100-150k","self employed",2
+"Hangzhou","16.5","6.6",22,"college degree","female","urban",NA,NA,"5","no","non-managers","R",1,"no","30-60k","unemployed",5
+"Hangzhou","16.5","3.3",21,"college degree","female","urban",NA,NA,"5","idk","non-managers","N",1,"no","more than 150k","unemployed",3
+"Hangzhou","16.5","26.3",24,"less than high school","male","rural","餐饮","10-100","5","idk","non-managers","R",0,"no","30-60k","employed",4
+"Hangzhou","3.3","10.5",23,"college degree","female","urban","教育","less than 10","5","no","non-managers","N",0,"no","30-60k","employed",4
+"Hangzhou","16.5","6.6",23,"some college","male","rural","客服","101-300","5","no","non-managers","R",1,"no","60-100k","employed",2
+"Hangzhou","16","6",32,"college degree","female","urban","服务","10-100","5","yes","non-managers","R",1,"yes","more than 150k","self employed",3
+"Hangzhou","16.5","6.6",29,"college degree","female","urban","医疗服务","301-500","5","no","non-managers","N",0,"yes","100-150k","employed",4
+"Hangzhou","16.5","6.6",28,"college degree","male","urban","网络营销","101-300","5","no","non-managers","R",0,"yes","60-100k","employed",4
+"Hangzhou","200","150",26,"high school","male","rural","数控机床","10-100","5","yes","non-managers","N",1,"no","30-60k","self employed",4
+"Hangzhou","16.5","6.6",21,"college degree","female","rural",NA,NA,"5","yes","non-managers","R",0,"no","100-150k","unemployed",4
+"Hangzhou","16.5","6.6",24,"college degree","female","rural","金融","10-100","5","yes","non-managers","N",1,"yes","100-150k","employed",4
+"Hangzhou","16.5","6.6",30,"some college","female","rural","制造业","10-100","5","no","non-managers","R",0,"yes","100-150k","employed",1
+"Hangzhou","16.5","26.3",22,"advanced degree","female","urban",NA,NA,"5","no","non-managers","N",0,"no","100-150k","unemployed",5
+"Hangzhou","16.5","6.6",24,"college degree","female","rural","玩具","101-300","5","yes","non-managers","N",0,"no","more than 150k","employed",5
+"Hangzhou","16.5","6.6",43,"some college","female","urban","制造业","10-100","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Hangzhou","16.5","6.6",32,"high school","female","rural","服务行业","more than 500","5","yes","non-managers","N",1,"no","100-150k","employed",4
+"Hangzhou","16.5","6.6",22,"some college","male","rural",NA,NA,"5","idk","non-managers","N",1,"no","60-100k","unemployed",4
+"Hangzhou","20","15",29,"college degree","male","urban","零售","10-100","5","idk","non-managers","R",1,"yes","100-150k","employed",4
+"Hangzhou","16.5","6.6",19,"college degree","female","rural",NA,NA,"5","no","non-managers","R",1,"no","more than 150k","unemployed",5
+"Hangzhou","26","3",28,"less than high school","male","rural","制造业","10-100","5","yes","non-managers","R",0,"yes","60-100k","employed",1
+"Hangzhou","165","66",28,"college degree","male","urban","房地产","10-100","5","yes","non-managers","N",1,"yes","more than 150k","employed",4
+"Hangzhou","16.5","3.3",25,"some college","male","rural","服业","10-100","5","yes","non-managers","R",1,"no","30-60k","self employed",2
+"Hangzhou","16.5","6.6",28,"college degree","female","urban","媒体","10-100","5","idk","non-managers","N",1,"no","100-150k","employed",3
+"Hangzhou","165","66",NA,"some college","male","urban","服装","less than 10","5","yes","non-managers","R",0,"yes","more than 150k","self employed",1
+"Hangzhou","16.5","6.6",24,"advanced degree","female","rural",NA,NA,"5","no","non-managers","R",0,"no","30-60k","unemployed",3
+"Hangzhou","16.5","6.6",20,"college degree","female","urban",NA,NA,"5","yes","non-managers","N",1,"yes","30-60k","unemployed",2
+"Hangzhou","16.5","6.6",26,"college degree","male","rural","制造业","10-100","5","no","non-managers","N",0,"yes","60-100k","employed",3
+"Hangzhou","16.5","16.5",20,"some college","male","rural",NA,NA,"5","yes","non-managers","R",1,"no","30-60k","unemployed",4
+"Hangzhou","16.5","6.6",30,"college degree","female","rural","房地产","more than 500","5","yes","non-managers","R",0,"no","100-150k","employed",2
+"Hangzhou","16.5","6.6",35,"college degree","male","urban","建筑","301-500","5","yes","non-managers","R",1,"no","more than 150k","employed",5
+"Hangzhou","16.5","6.6",24,"advanced degree","male","urban","金融","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",1
+"Hangzhou","16.5","6.6",28,"college degree","female","rural","交通运输","301-500","5","no","non-managers","R",0,"no","more than 150k","self employed",3
+"Hangzhou","16.5","6.6",21,"some college","female","urban",NA,NA,"5","no","non-managers","R",0,"no","60-100k","unemployed",2
+"Hangzhou","16.5","6.6",31,"college degree","female","urban","建筑行业","10-100","5","no","non-managers","N",0,"no","60-100k","self employed",3
+"Hangzhou","6.6","7",34,"college degree","male","rural","电气工程","10-100","5","no","non-managers","N",0,"no","60-100k","employed",4
+"Hangzhou","16.5","6.6",30,"some college","female","rural","批发零售","101-300","5","idk","non-managers","R",0,"yes","60-100k","employed",3
+"Hangzhou","16.5","6.6",36,"college degree","male","urban","制造行业","more than 500","5","yes","non-managers","N",1,"no","more than 150k","employed",5
+"Hangzhou","16.5","6.6",38,"some college","male","urban","服务业","10-100","5","yes","non-managers","R",1,"yes","100-150k","employed",5
+"Wenzhou","16.5","6.6",30,"college degree","male","urban","制造业","more than 500","5","yes","non-managers","N",1,"no","more than 150k","employed",3
+"Wenzhou","16.5","6.6",22,"college degree","female","rural","环境监测","101-300","5","no","non-managers","N",0,"no","60-100k","employed",3
+"Wenzhou","16.5","6.6",29,"advanced degree","female","rural","启行有限公司","10-100","5","yes","non-managers","R",1,"yes","60-100k","employed",3
+"Wenzhou","16.5","6.6",20,"college degree","female","urban",NA,NA,"5","no","non-managers","R",0,"no","100-150k","unemployed",5
+"Wenzhou","16.5","6.6",20,"college degree","male","rural",NA,NA,"5","no","non-managers","R",1,"no","100-150k","unemployed",4
+"Wenzhou","16.5","6.6",34,"college degree","female","rural","商业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",2
+"Wenzhou","16.5","6.6",28,"college degree","male","urban","建筑","101-300","5","yes","non-managers","N",0,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",26,"college degree","female","rural","餐饮","less than 10","5","yes","non-managers","N",0,"prefer not to answer","60-100k","self employed",3
+"Wenzhou","26.6","6.6",30,"college degree","female","rural","纺织","more than 500","5","yes","non-managers","N",0,"no","100-150k","employed",4
+"Wenzhou","165","66",30,"some college","male","rural","制造业","more than 500","5","yes","non-managers","R",0,"no","60-100k","employed",3
+"Wenzhou","16.5","6.6",26,"some college","female","rural","教育","10-100","5","yes","non-managers","N",0,"no","less than 30k","employed",4
+"Wenzhou","16.5","6.6",25,"college degree","male","urban","互联网","more than 500","5","idk","non-managers","N",0,"no","more than 150k","employed",4
+"Wenzhou","165","66",21,"college degree","female","urban",NA,NA,"5","no","non-managers","R",0,"yes","less than 30k","unemployed",4
+"Wenzhou","16.5","6.6",24,"college degree","female","urban","浙江钱江摩托有限公司","301-500","5","yes","non-managers","R",0,"no","more than 150k","employed",4
+"Wenzhou","16.5","6.6",24,"college degree","male","urban","统计","101-300","5","yes","non-managers","N",1,"no","more than 150k","employed",3
+"Wenzhou","16.5","6.6",20,"some college","male","urban",NA,NA,"5","yes","non-managers","R",0,"no","100-150k","unemployed",1
+"Wenzhou","26.3","6.6",26,"college degree","female","rural","文化","101-300","5","yes","non-managers","R",1,"no","100-150k","employed",4
+"Wenzhou","16.5","6.6",18,"high school","male","rural",NA,NA,"5","yes","non-managers","R",1,"no","less than 30k","unemployed",5
+"Wenzhou","16.5","26.3",35,"college degree","female","urban","华晨机械有限公司","101-300","5","yes","non-managers","R",1,"yes","more than 150k","employed",2
+"Wenzhou","16.5","6.6",35,"college degree","male","rural","医学","101-300","5","no","non-managers","N",0,"no","100-150k","employed",3
+"Wenzhou","16.5","6.6",32,"college degree","female","urban","浙江钱江摩托有限公司","more than 500","5","no","non-managers","N",0,"yes","100-150k","employed",5
+"Wenzhou","16.5","6.6",25,"college degree","female","rural","互联网","10-100","5","no","non-managers","N",1,"yes","30-60k","employed",4
+"Wenzhou","16.5","6.6",36,"college degree","male","urban","信达公司","101-300","5","idk","non-managers","R",1,"no","100-150k","employed",1
+"Wenzhou","16.5","6.6",25,"college degree","female","urban","工业","10-100","5","no","non-managers","N",0,"no","60-100k","employed",3
+"Wenzhou","16.5","6.6",28,"college degree","female","rural","服务","10-100","5","no","non-managers","N",1,"no","100-150k","employed",1
+"Wenzhou","16.5","6.6",25,"college degree","female","rural","制造业","301-500","5","no","non-managers","R",1,"prefer not to answer","100-150k","employed",4
+"Wenzhou","16.5","6.6",27,"some college","female","rural","服务业","101-300","5","no","non-managers","N",0,"no","more than 150k","employed",3
+"Wenzhou","16.5","6.6",26,"advanced degree","female","rural","互联网","101-300","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Wenzhou","16.5","16.5",22,"college degree","female","urban",NA,NA,"5","yes","non-managers","R",0,"no","60-100k","unemployed",3
+"Wenzhou","16.5","26.3",27,"college degree","female","urban","家具","101-300","5","no","non-managers","R",1,"no","60-100k","employed",3
+"Wenzhou","16.5","6.6",23,"some college","female","urban","互联网行业","10-100","5","yes","non-managers","N",1,"no","30-60k","employed",2
+"Wenzhou","16.5","6.6",28,"some college","female","rural","电商","101-300","5","yes","non-managers","R",1,"yes","100-150k","employed",3
+"Wenzhou","16.5","6.6",38,"some college","female","urban","销售"," less than 10","5","no","non-managers","N",0,"no","60-100k","employed",4
+"Wenzhou","16.5","6.6",26,"college degree","male","rural","金融","101-300","5","no","non-managers","N",0,"yes","100-150k","employed",4
+"Wenzhou","16.5","6.6",25,"some college","male","urban","制造业","101-300","5","no","non-managers","N",0,"no","60-100k","self employed",3
+"Wenzhou","16.5","6.6",33,"college degree","male","urban","建筑","101-300","5","no","non-managers","R",0,"no","100-150k","self employed",2
+"Wenzhou","16.5","6.6",35,"college degree","male","urban","保险","more than 500","5","yes","non-managers","R",1,"yes","more than 150k","employed",3
+"Wenzhou","16.5","6.6",18,"college degree","female","urban",NA,NA,"5","no","non-managers","R",0,"prefer not to answer","100-150k","unemployed",1
+"Wenzhou","16.5","6.6",31,"high school","female","rural","汽车行业","more than 500","5","no","non-managers","R",0,"no","30-60k","employed",2
+"Wenzhou","16.5","6.6",28,"college degree","male","urban","发展趋势逐渐增加","301-500","5","yes","non-managers","R",1,"yes","more than 150k","self employed",4
+"Wenzhou","16.5","6.6",22,"college degree","female","rural",NA,NA,"5","yes","non-managers","N",0,"yes","30-60k","unemployed",2
+"Wenzhou","33","6.6",27,"college degree","male","urban","公共交通","more than 500","5","yes","non-managers","R",0,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",35,"college degree","female","rural","金融业","more than 500","5","no","non-managers","N",0,"no","more than 150k","employed",2
+"Wenzhou","16.5","6.6",20,"college degree","female","urban",NA,NA,"5","yes","non-managers","R",0,"no","60-100k","unemployed",3
+"Wenzhou","16.5","6.6",26,"college degree","male","rural","制造业","301-500","5","no","non-managers","R",0,"yes","100-150k","employed",1
+"Wenzhou","16.5","6.6",27,"college degree","female","urban","运输业","101-300","5","no","non-managers","N",0,"yes","more than 150k","employed",1
+"Wenzhou","16.5","6.6",26,"some college","male","rural","服装设计","10-100","5","no","non-managers","R",0,"yes","more than 150k","employed",1
+"Wenzhou","16.5","6.6",26,"college degree","male","urban","制造业","101-300","5","no","non-managers","N",0,"yes","more than 150k","employed",1
+"Wenzhou","16.5","6.6",26,"college degree","male","rural",NA,NA,"5","no","non-managers","N",0,"yes","60-100k","unemployed",4
+"Wenzhou","16.5","6.6",24,"advanced degree","male","rural",NA,NA,"5","no","non-managers","R",0,"yes","100-150k","unemployed",4
+"Wenzhou","16.5","6.6",28,"college degree","female","urban","互联网","10-100","5","no","non-managers","R",0,"no","more than 150k","employed",5
+"Wenzhou","16.5","6.6",25,"college degree","male","urban","制造业","101-300","5","yes","non-managers","N",0,"yes","100-150k","employed",4
+"Wenzhou","16.5","6.6",26,"some college","female","rural","服务行业","10-100","5","no","non-managers","R",1,"no","100-150k","employed",5
+"Wenzhou","16.5","6.6",26,"college degree","male","urban","信息","301-500","5","yes","non-managers","R",1,"yes","100-150k","self employed",3
+"Wenzhou","16.5","6.6",22,"college degree","female","urban",NA,NA,"5","yes","non-managers","N",1,"no","60-100k","unemployed",4
+"Wenzhou","16.5","6.6",22,"some college","male","rural","京东物流","more than 500","5","yes","non-managers","N",0,"no","60-100k","employed",2
+"Wenzhou","16.5","6.6",33,"some college","male","urban","医疗","10-100","5","no","non-managers","N",1,"yes","100-150k","employed",4
+"Wenzhou","16.5","6.6",24,"college degree","female","urban","日用品","101-300","5","no","non-managers","N",0,"yes","more than 150k","employed",4
+"Wenzhou","16.5","6.6",22,"college degree","female","rural",NA,NA,"5","no","non-managers","R",1,"no","30-60k","unemployed",2
+"Wenzhou","16.5","6.6",24,"college degree","male","urban","材料","10-100","5","no","non-managers","R",1,"no","100-150k","employed",3
+"Nanjing","16.5","6.6",22,"college degree","female","urban",NA,NA,"5","yes","non-managers","R",0,"no","100-150k","unemployed",3
+"Nanjing","16.5","6.6",24,"advanced degree","female","rural",NA,NA,"5","yes","non-managers","R",1,"yes","more than 150k","unemployed",5
+"Nanjing","16.5","16.5",25,"advanced degree","female","urban","教育","301-500","5","yes","non-managers","N",1,"no","100-150k","employed",3
+"Nanjing","16.5","6.6",20,"college degree","female","urban",NA,NA,"5","no","non-managers","N",1,"no","100-150k","unemployed",4
+"Nanjing","16.5","6.6",22,"college degree","female","urban",NA,NA,"5","no","non-managers","R",1,"no","60-100k","unemployed",1
+"Nanjing","16.5","6.6",27,"college degree","male","urban","制造业","101-300","5","yes","non-managers","R",1,"no","more than 150k","employed",4
+"Nanjing","33","13",26,"college degree","female","urban","电商行业京东客服部","more than 500","5","no","non-managers","N",1,"no","more than 150k","employed",2
+"Nanjing","16.5","6.6",22,"college degree","female","rural",NA,NA,"5","yes","non-managers","R",0,"no","30-60k","unemployed",4
+"Nanjing","16.5","6.6",24,"some college","female","rural","医疗","more than 500","5","yes","non-managers","N",1,"no","100-150k","employed",4
+"Nanjing","16.5","6.6",25,"college degree","male","rural","餐饮业","more than 500","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Nanjing","16.5","6.6",25,"college degree","male","rural",NA,NA,"5","no","non-managers","R",0,"no","100-150k","unemployed",2
+"Nanjing","16.5","6.6",28,"college degree","female","urban","轻工业","101-300","5","no","non-managers","N",1,"no","more than 150k","employed",5
+"Nanjing","16.5","9.9",25,"some college","male","rural","刀具","10-100","5","yes","non-managers","N",1,"no","60-100k","employed",4
+"Nanjing","16.5","6.6",20,"college degree","female","rural",NA,NA,"5","yes","non-managers","N",1,"no","30-60k","unemployed",2
+"Nanjing","16.5","3.3",26,"some college","male","urban","建筑","10-100","5","yes","non-managers","R",1,"yes","100-150k","employed",2
+"Nanjing","16.5","6.6",28,"college degree","female","urban","新能源","more than 500","5","no","non-managers","R",0,"no","more than 150k","employed",3
+"Nanjing","33","13.2",19,"college degree","female","urban",NA,NA,"5","yes","non-managers","N",1,"no","100-150k","unemployed",3
+"Nanjing","16.5","6.6",33,"college degree","female","urban","房地产","more than 500","5","no","non-managers","R",0,"no","100-150k","employed",5
+"Nanjing","16.5","6.6",22,"college degree","female","rural","制造业","10-100","5","no","non-managers","N",1,"no","30-60k","employed",4
+"Nanjing","165","66",24,"college degree","female","urban",NA,NA,"5","no","non-managers","N",0,"yes","100-150k","unemployed",4
+"Nanjing","16.5","6.6",22,"college degree","female","rural",NA,NA,"5","no","non-managers","N",0,"no","60-100k","unemployed",4
+"Nanjing","16.5","6.6",28,"college degree","female","urban","制造业","more than 500","5","no","non-managers","R",0,"yes","more than 150k","employed",2
+"Nanjing","16.5","6.6",32,"college degree","male","urban","制造业","101-300","5","yes","non-managers","R",0,"yes","100-150k","employed",3
+"Nanjing","16.5","6.6",38,"college degree","male","urban","餐饮","10-100","5","yes","non-managers","N",0,"yes","30-60k","employed",4
+"Nanjing","16.5","6.6",29,"college degree","female","urban"," 制造业","101-300","5","no","non-managers","N",1,"no","100-150k","employed",4
+"Nanjing","16.5","6.6",31,"college degree","female","rural","船舶附件制造","10-100","5","no","non-managers","N",0,"yes","more than 150k","employed",5
+"Nanjing","16.5","6.6",36,"college degree","male","urban","服务","101-300","5","no","non-managers","R",1,"no","100-150k","employed",2
+"Nanjing","24","25",29,"college degree","female","urban","金融","10-100","5","yes","non-managers","N",0,"yes","100-150k","employed",4
+"Nanjing","16.5","26.3",41,"some college","female","rural","超市","10-100","5","yes","non-managers","R",0,"yes","60-100k","self employed",2
+"Nanjing","16.5","6.6",40,"high school","female","rural","学校","10-100","5","yes","non-managers","R",1,"yes","100-150k","employed",3
+"Nanjing","16.5","6.6",26,"college degree","female","rural","外贸","101-300","5","no","non-managers","N",1,"no","100-150k","employed",4
+"Nanjing","16.5","6.6",33,"college degree","female","urban","服务业","101-300","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Nanjing","26.3","6.6",30,"high school","male","urban","速筑公司","10-100","5","no","non-managers","R",1,"yes","60-100k","employed",3
+"Nanjing","16.5","6.6",29,"college degree","female","urban","贸易","10-100","5","no","non-managers","R",1,"no","100-150k","employed",5
+"Nanjing","16.5","6.6",26,"college degree","male","urban","机械制造","101-300","5","yes","non-managers","N",1,"yes","100-150k","employed",4
+"Nanjing","16","6.6",38,"college degree","female","urban","通信","10-100","5","no","non-managers","R",1,"yes","more than 150k","employed",4
+"Nanjing","16.5","6.6",32,"advanced degree","female","urban","网络运营","10-100","5","yes","non-managers","N",0,"yes","more than 150k","self employed",5
+"Nanjing","165","66",20,"college degree","female","urban",NA,NA,"5","no","non-managers","N",0,"no","more than 150k","unemployed",2
+"Nanjing","16.5","6.6",28,"college degree","female","urban","金融贸易","10-100","5","no","non-managers","R",1,"no","60-100k","employed",4
+"Nanjing","16.5","6.6",32,"college degree","female","urban","电力安装","more than 500","5","yes","non-managers","R",0,"no","more than 150k","employed",4
+"Nanjing","16.5","6.6",24,"college degree","female","urban","运输","more than 500","5","no","non-managers","R",0,"no","30-60k","employed",3
+"Nanjing","16.5","6.6",29,"college degree","female","rural","商业","301-500","5","no","non-managers","R",1,"no","more than 150k","employed",4
+"Nanjing","16.5","6.6",20,"some college","female","urban",NA,NA,"5","no","non-managers","R",1,"no","less than 30k","unemployed",4
+"Nanjing","16.5","6.6",25,"college degree","male","rural","制造业","101-300","5","no","non-managers","N",0,"yes","60-100k","employed",4
+"Nanjing","16.5","6.6",27,"college degree","female","urban","金融业","101-300","5","no","non-managers","N",1,"no","100-150k","employed",4
+"Nanjing","16.5","6.6",28,"college degree","female","urban","保险业","101-300","5","no","non-managers","R",0,"no","more than 150k","employed",4
+"Nanjing","16.5","6.6",20,"some college","female","urban",NA,NA,"5","yes","non-managers","N",1,"no","100-150k","unemployed",4
+"Nanjing","16.5","6.6",31,"college degree","female","urban","销售","10-100","7","no","non-managers","N",0,"no","60-100k","employed",5
+"Nanjing","16.5","6.6",35,"college degree","female","urban","服务业","101-300","5","no","non-managers","R",0,"no","100-150k","employed",4
+"Nanjing","16","26",21,"some college","male","rural","娱乐类","10-100","5","yes","non-managers","R",1,"no","30-60k","employed",2
+"Nanjing","16.5","6.6",42,"college degree","male","urban","商业","10-100","5","yes","non-managers","R",1,"yes","100-150k","employed",4
+"Nanjing","16.5","6.6",34,"college degree","female","urban","建筑","101-300","5","no","non-managers","N",0,"no","30-60k","employed",2
+"Nanjing","16.5","6.6",32,"advanced degree","female","urban","培训机构","10-100","5","yes","non-managers","R",1,"yes","100-150k","employed",2
+"Nanjing","16.5","6.6",29,"college degree","male","urban","旅游业","101-300","5","no","non-managers","R",0,"no","more than 150k","employed",5
+"Nanjing","16.5","6.6",32,"advanced degree","male","urban","金融行业","301-500","5","no","non-managers","R",0,"yes","more than 150k","employed",4
+"Nanjing","16.5","6.6",33,"advanced degree","female","rural","研究，教育","more than 500","5","idk","non-managers","R",1,"no","100-150k","employed",1
+"Nanjing","16.5","6.6",31,"college degree","female","urban","金融行业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Nanjing","16.5","6.6",33,"college degree","male","urban","教育行业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Nanjing","16.5","6.6",28,"college degree","female","urban","计算机行业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Nanjing","16.5","6.6",32,"college degree","female","urban","房地产","more than 500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",29,"college degree","female","urban","教育行业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",31,"college degree","male","urban","建筑行业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",32,"college degree","female","urban","医疗行业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",45,"high school","male","urban","化学工业","more than 500","5","no","non-managers","R",0,"no","60-100k","employed",4
+"Changzhou","3","6.6",32,"some college","female","rural","制造业","more than 500","5","yes","non-managers","R",1,"no","100-150k","employed",3
+"Changzhou","16.5","6.6",28,"college degree","male","urban","工程","more than 500","5","no","non-managers","R",1,"yes","more than 150k","employed",4
+"Changzhou","16.5","6.6",23,"college degree","female","urban",NA,NA,"5","no","non-managers","N",0,"no","100-150k","unemployed",3
+"Changzhou","16.5","6.6",35,"college degree","male","urban","人工智能","301-500","5","no","non-managers","N",1,"no","more than 150k","employed",2
+"Changzhou","16.5","6.6",42,"college degree","female","urban","卫生技术行业","10-100","5","no","non-managers","R",0,"yes","more than 150k","employed",1
+"Changzhou","16.5","6.6",22,"college degree","female","rural","电子商务","10-100","5","no","non-managers","R",1,"no","30-60k","employed",3
+"Changzhou","16.5","6.6",22,"college degree","male","rural",NA,NA,"5","no","non-managers","R",0,"yes","100-150k","unemployed",3
+"Changzhou","16.5","6.6",28,"college degree","female","urban","信息","101-300","5","yes","non-managers","R",0,"no","100-150k","employed",2
+"Changzhou","33","13.2",28,"college degree","female","urban","建筑","101-300","5","yes","non-managers","R",0,"yes","more than 150k","employed",3
+"Changzhou","16.5","6.6",33,"college degree","male","urban","金融行业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",29,"college degree","female","urban","旅游业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",32,"college degree","male","urban","房地产","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",31,"college degree","male","urban","建筑业","more than 500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",35,"advanced degree","female","urban","互联网","101-300","5","no","non-managers","N",0,"yes","more than 150k","employed",3
+"Changzhou","16.5","6.6",28,"college degree","female","urban","信息技术","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",25,"advanced degree","male","urban","通讯","more than 500","5","yes","non-managers","R",0,"no","100-150k","employed",2
+"Changzhou","16.5","6.6",30,"college degree","male","urban","教育行业","101-300","5","yes","non-managers","N",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",41,"college degree","male","urban","金融","more than 500","5","yes","non-managers","R",1,"yes","more than 150k","employed",2
+"Changzhou","16.5","6.6",29,"college degree","female","rural","化工业","10-100","5","yes","non-managers","R",0,"no","60-100k","self employed",4
+"Changzhou","16.5","6.6",29,"college degree","male","urban","IT","301-500","5","no","non-managers","R",0,"no","more than 150k","employed",5
+"Changzhou","16.5","6.6",31,"college degree","female","urban","污水","101-300","5","no","non-managers","N",1,"yes","more than 150k","employed",2
+"Changzhou","16.5","6.6",24,"advanced degree","female","rural","互联网","more than 500","5","yes","non-managers","R",0,"no","100-150k","employed",3
+"Changzhou","16.5","6.6",20,"some college","female","urban",NA,NA,"5","no","non-managers","R",0,"no","100-150k","unemployed",3
+"Changzhou","26.3","6.6",45,"some college","male","urban","制造业","10-100","5","yes","non-managers","R",1,"yes","100-150k","employed",4
+"Changzhou","16.5","6.6",36,"college degree","male","rural","南京固华智能科技","10-100","5","no","non-managers","N",0,"yes","more than 150k","employed",2
+"Changzhou","16.5","6.6",26,"advanced degree","female","rural","电子产业","101-300","5","no","non-managers","N",0,"no","100-150k","employed",2
+"Changzhou","16.5","3.3",30,"some college","female","rural","电子","301-500","5","no","non-managers","R",1,"yes","30-60k","employed",4
+"Changzhou","16.5","6.6",43,"college degree","male","urban","教育","more than 500","5","no","non-managers","N",1,"no","100-150k","employed",4
+"Changzhou","16.5","165",31,"college degree","male","urban","金融","more than 500","5","yes","non-managers","N",1,"no","more than 150k","employed",2
+"Changzhou","16.5","6.6",33,"college degree","male","urban","林辰科技","101-300","5","no","non-managers","R",1,"no","100-150k","employed",4
+"Changzhou","16.5","6.6",31,"college degree","female","rural","制造业","301-500","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",31,"college degree","male","urban","互联网信息技术","more than 500","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",33,"college degree","male","rural","通讯设备","301-500","5","no","non-managers","R",0,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",25,"college degree","female","urban","教育","101-300","5","no","non-managers","N",0,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",40,"some college","female","urban","商业性","101-300","5","yes","non-managers","R",0,"no","100-150k","employed",3
+"Changzhou","16.5","6.6",39,"some college","female","rural","服务行业","10-100","5","no","non-managers","N",1,"yes","60-100k","employed",1
+"Changzhou","16.5","6.6",28,"college degree","male","urban","商贸服务","10-100","5","no","non-managers","R",1,"yes","100-150k","employed",5
+"Changzhou","2555","44",24,"college degree","male","urban","凤飞飞","10-100","4","yes","non-managers","N",1,"yes","60-100k","self employed",5
+"Changzhou","16.5","6.6",33,"high school","female","rural","汽车部件","more than 500","5","yes","non-managers","N",1,"yes","more than 150k","employed",4
+"Changzhou","16.5","6.6",35,"college degree","female","urban","电力","more than 500","5","no","non-managers","R",1,"no","100-150k","employed",2
+"Changzhou","16.5","6.6",33,"college degree","male","urban","制造业","101-300","5","no","non-managers","R",0,"no","100-150k","employed",3
+"Changzhou","16.5","6.6",28,"college degree","male","urban","能源","101-300","5","no","non-managers","R",1,"yes","100-150k","employed",2
+"Changzhou","16.5","6.6",38,"some college","male","urban","公交公司","more than 500","5","no","non-managers","N",1,"yes","100-150k","employed",1
+"Changzhou","16.5","6.6",30,"college degree","female","urban","建筑","10-100","5","no","non-managers","R",0,"yes","60-100k","employed",2
+"Changzhou","16.6","6.6",25,"advanced degree","male","urban","咨询","10-100","5","no","non-managers","N",1,"no","30-60k","employed",2
+"Changzhou","16.5","6.6",25,"college degree","male","urban","教育","101-300","5","no","non-managers","R",0,"no","100-150k","employed",4
+"Changzhou","16.5","6.6",26,"college degree","male","rural","金融","101-300","5","no","non-managers","R",0,"no","100-150k","employed",4
+"Changzhou","16.5","6.6",26,"college degree","female","urban","金融业","10-100","5","yes","non-managers","N",0,"no","more than 150k","employed",4
+"Changzhou","3.3","26.3",35,"high school","male","rural","机械制造","10-100","5","yes","non-managers","R",0,"no","100-150k","employed",4
+"Changzhou","16","6",27,"college degree","female","urban","能源化工","301-500","5","no","non-managers","N",1,"yes","100-150k","employed",2
+"Changzhou","25","15",26,"college degree","male","urban","金融业","more than 500","2","idk","non-managers","R",1,"yes","60-100k","employed",2
+"Changzhou","16.5","6.6",31,"college degree","male","urban","物流配送","101-300","5","no","non-managers","N",1,"no","more than 150k","employed",4
+"Changzhou","16.5","6.6",32,"college degree","female","urban","通信技术行业","301-500","5","no","non-managers","R",1,"no","more than 150k","employed",2
+"Changzhou","16.5","6.6",31,"college degree","male","urban","电子制造业","more than 500","5","no","non-managers","R",1,"yes","100-150k","employed",2
+"Changzhou","16.5","6.6",24,"college degree","female","urban","广告","101-300","5","no","non-managers","N",1,"no","more than 150k","employed",1
+"Changzhou","16.5","6.6",24,"college degree","male","urban","it","101-300","5","no","non-managers","N",0,"no","less than 30k","employed",4
