@@ -1,4 +1,4 @@
-## Cooperation with Strangers: Spillover of Community Norms
+## "Cooperation with Strangers: Spillover of Community Norms"
 #### By Mario Molina, Victor Nee, and Hakan Holm
 
 This repository includes a replication package for the results with experimental data on the paper (a link to the paper will be posted soon). The package is written in `R` and includes:
