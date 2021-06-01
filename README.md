@@ -10,6 +10,6 @@ This repository includes a replication package for the results with experimental
 - `credamo_study.R`: A file that reproduces analyses from the online experiment on Credamo (a Chinese crowdsourcing site similar to AMT).
 
 - `data/`: A folder with the data used for analyses. It contains three `csv` files:
-      - yangzi-delta_data_all.csv
-      - mturk_data_all.csv
-      - credamo_data_all.csv
+      yangzi-delta_data_all.csv
+      mturk_data_all.csv
+      credamo_data_all.csv
