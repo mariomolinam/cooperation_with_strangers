@@ -19,6 +19,14 @@ if( length(new.packages) ) {
 # set working directory 
 setwd("./.")
 
+# create empty folder to store all results
+dir.create("./results")
+
+
+#### Y A N G Z I - D E L T A   S T U D Y  
+############################################
+source("./yangzi-delta_study.R")
+
 #### M T U R K   E X P E R I M E N T
 ############################################
 source("./mturk_study.R")

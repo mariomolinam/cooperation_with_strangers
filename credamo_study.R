@@ -49,24 +49,16 @@ models = list(m1, m2, m3, m4, m5)
 stargazer(models,
           title = paste("Reciprocity Business Norms and Prisoner's Dilemma"),
           header = FALSE, label = "table5",
-          # align=TRUE,
           column.labels = c("M1", "M2", "M3", "M4", "M5"),
           model.numbers = FALSE,
           dep.var.caption = "",
           dep.var.labels = "Cooperation",
-          # covariate.labels = labels.main,
-          # omit  = c( "gender1","income","rural1","educ","age",
-          #            "ind_sector2","ind_sector3","ind_sector4", "ind_sector5",
-          #            "nothing_all",
-          #            "cityHangzhou", "cityNanjing", "cityShanghai", "cityWenzhou" ),
-          # omit = rownames(summary(models[[4]])$coef)[-c(1,2)],
-          order = colnames(norm), #, "cityHangzhou", "cityNanjing", "cityShanghai", "cityWenzhou"),
-          # add.lines = list(c("Controls",rep(c("No", "Yes"),5))),
+          order = colnames(norm),
           omit.stat=c("LL","ser","f"), no.space=TRUE, type = "text",
           font.size = "footnotesize", digits = 2,
           column.sep.width = "-8pt", notes.label = "",
           single.row = TRUE,
-          out = "table_6.html")
+          out = "./results/table_6.html")
 
 
 
@@ -133,7 +125,7 @@ prob_ci95 = rbind(prob_ci95, mean=colMeans(binom_draws))
 
 # FIGURE 3
 ############
-png("./figure_3.png",units="in",width=6,height=4.2,res=150)
+png("./results/figure_3.png",units="in",width=6,height=4.2,res=150)
 
 op = par(mfrow = c(1,1), oma=c(0,2,0,0), mar = c(3,3,2,1) + 0.1)
 

@@ -76,24 +76,16 @@ models = list(m1, m1.cov)
 stargazer(models,
           title = paste("Cooperation Norms and Prisoner's Dilemma"),
           header = FALSE, label = "table1_appendix",
-          # align=TRUE,
           column.labels = c("M1", "M2"),
           model.numbers = FALSE,
           dep.var.caption = "",
           dep.var.labels = "Cooperation",
-          # covariate.labels = labels.main,
-          # omit  = c( "gender1","income","rural1","educ","age",
-          #            "ind_sector2","ind_sector3","ind_sector4", "ind_sector5",
-          #            "nothing_all",
-          #            "cityHangzhou", "cityNanjing", "cityShanghai", "cityWenzhou" ),
-          # omit = rownames(summary(models[[4]])$coef)[-c(1,2)],
-          order = colnames(norm), #, "cityHangzhou", "cityNanjing", "cityShanghai", "cityWenzhou"),
-          # add.lines = list(c("Controls",rep(c("No", "Yes"),5))),
+          order = colnames(norm), 
           omit.stat=c("LL","ser","f"), no.space=TRUE, type = "text",
           font.size = "footnotesize", digits = 2,
           column.sep.width = "-8pt", notes.label = "",
           single.row = TRUE,
-          out = "tableD1.html")
+          out = "./results/tableD1.html")
 
 
 
