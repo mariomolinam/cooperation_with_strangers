@@ -3,6 +3,8 @@
 
 (This article is currently accepted for publication at _Organization Science_)
 
+---
+
 **Instructions to reproduce the study**
 
 This repository includes all materials to reproduce the results on the paper using experimental data. To reproduce the main results on the paper, open a terminal or command line in your computer and write `Rscript master.R`. All `R` libraries used for the analyses will be automatically installed before reproducing the results on the paper. Make sure that you are in the right folder on the terminal when you use `Rscript` (i.e., the folder where the materials were downloaded). All results will be stored in a new the folder named `results`.
