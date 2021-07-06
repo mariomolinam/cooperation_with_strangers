@@ -126,6 +126,46 @@ d[,"no_norm"] = ifelse(d$nothing==1, 1, 0)
 
 
 
+#   T A B L E   2
+########################################
+vars_stats = c("pd", strong.names, controls[-grep("age_2|no_norm", controls)])
+
+# exclude city and industry names
+vals_t = sapply(vars_stats[1:11], function(x){
+    vec = d[,x]
+    if(x=="income") vec = vec/1000
+    # transform to numeric if required
+    if(is.factor(vec)) vec = as.integer(as.character(vec))
+    avg = round(mean(vec), 2)
+    std = round(sd(vec),2)
+    c(avg, std,  min(vec), max(vec))
+  })
+
+vals_t = t(vals_t)
+
+# add city proportions
+prop = prop.table(table(d[,vars_stats[12]]))
+city_prop = round(prop, 2)
+
+# add industry proportions
+prop = prop.table(table(d[,vars_stats[13]]))
+ind_prop = round(prop, 2)[c(2,4,1,5,3)]
+
+# vals for city and industry
+m = matrix("", 10,4)
+m[,1] = c(city_prop,ind_prop)
+m = as.data.frame(m)
+rownames(m) = c(names(city_prop), 
+                "Mechanical","Medical","Textile",
+                "Transportation","Electronics")
+# row append
+vals_t = rbind(vals_t, m)
+colnames(vals_t) = c("Mean","S.d.", "Min", "Max")
+
+write.table(vals_t, "./results/table_2.txt")
+
+
+
 #  R U N    M O D E L S
 ########################################
 
@@ -535,3 +575,86 @@ title(ylab="P(Cooperation)", outer = TRUE, line = 0,cex.lab=1.3)
 
 par(op)
 dev.off()
+
+
+
+### P L O T   F I G U R E   A 1
+########################
+
+png("./results/figure_A1.png", height = 8, width = 6, res = 150,units="in")
+
+op = par(mfrow = c(3,2),oma = c(3.5,3.5,1.5,2.5) + 0.1,mar = c(1.5,0,2,0) + 0.1)
+
+for(i in 1:length(strong.names)){ 
+  
+  # main variables of interest
+  coop = d$pd
+  norm = d[,strong.names[i]]
+  norm_values = unique(norm)
+  
+  # jitter them
+  set.seed(6282021)
+  coop_jitter = jitter(coop, amount=0.04)
+  norm_jitter = jitter(norm, amount=0.04)
+  
+  # empty plot 
+  plot(norm_jitter, coop_jitter, main="", xlab="", ylab="",
+       xaxt = 'n', yaxt = 'n', bty = 'n', type="n")
+  
+  # build the plot by parts
+  # x-axis
+  axis(1, at=norm_values, cex.axis=0.8, tick=FALSE, col='black', 
+       col.ticks = 'black', line=-0.5)
+  # y-axis (we move this to left and right, depending on the side)
+  # this symbol "%%" obtains the remainder of a division 
+  # (to distinguish odd and even numbers)
+  if(i%%2 == 1){ # if odd, plot to the left
+    axis(2, at=c(0,1), tick=TRUE, las=1, cex.axis=0.7, hadj=0.6) 
+  } else{
+    axis(4, at=c(0,1), tick=TRUE, las=1, cex.axis=0.7, hadj=0.6) 
+  }
+  
+  box()
+  
+  # add points
+  points(norm_jitter, coop_jitter, pch=19, cex=0.4) 
+  
+  # add labels as sub-titles
+  mtext(labels.main[i], side=3, line=0.5, cex=0.7, font = 2)
+  
+}
+
+title(ylab="Prisoner's dilemma",outer = TRUE, line = 2,cex.lab=1.2, font.lab=2)
+title(xlab="Norm Enforcement", outer=TRUE, line = 1, cex.lab=1.2, font.lab=2)
+
+par(op)
+
+dev.off()
+
+
+
+# T A B L E   A1
+########################
+d_cor = d[,c("pd", strong.names, controls[-c(6:9)])]
+
+d_cor$gender = as.numeric(as.character(d_cor$gender))
+d_cor$rural = as.numeric(as.character(d_cor$rural))
+
+# correlation object
+corr_m = rcorr(as.matrix(d_cor))
+
+# correlation matrix
+lower_m = round(corr_m$r, 3)
+lower_m[upper.tri(lower_m)] = ""
+lower_m = as.data.frame(lower_m)
+
+write.table(lower_m, "./results/table_A1.txt")
+
+# p-values for lower_m
+lower_p = round(corr_m$P,4)
+lower_p[upper.tri(lower_p)] = ""
+lower_p = as.data.frame(lower_p)
+
+write.table(lower_p, "./results/table_A1-p_values.txt")
+
+

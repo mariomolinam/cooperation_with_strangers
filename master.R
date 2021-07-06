@@ -7,7 +7,7 @@
 
 
 # INSTALL and LOAD libraries
-packages = c("stargazer", "effects", "MASS")
+packages = c("stargazer", "effects", "MASS", "Hmisc")
 new_packages = packages[ !( packages %in% installed.packages()[,"Package"] ) ]
 if( length(new.packages) ) {
   install.packages(new_packages)
@@ -25,12 +25,12 @@ dir.create("./results")
 
 #### Y A N G Z I - D E L T A   S T U D Y  
 ############################################
-source("./yangzi-delta_study.R")
+source("./code/yangzi-delta_study.R")
 
 #### M T U R K   E X P E R I M E N T
 ############################################
-source("./mturk_study.R")
+source("./code/mturk_study.R")
 
 #### C R E D A M O   E X P E R I M E N T
 ############################################
-source("./credamo_study.R")
+source("./code/credamo_study.R")
