@@ -1,8 +1,7 @@
 ## "Cooperation with Strangers: Spillover of Community Norms"*
-
-*(This article is currently accepted for publication at _Organization Science_)
-
 #### By Mario Molina, Victor Nee, and Hakan Holm
+
+(This article is currently accepted for publication at _Organization Science_)
 
 **Instructions to reproduce the study**
 
