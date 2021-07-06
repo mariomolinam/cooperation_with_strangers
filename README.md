@@ -28,6 +28,6 @@ Pre-registration materials for the two experimental studies included in this rep
 - `./code/credamo_study.R`: A file that reproduces analyses from the online experiment on Credamo (a Chinese crowdsourcing site similar to AMT).
 
 - data/: A folder with the data used for analyses. It contains three .csv files:
-    - `./data/yangzi-delta_data_all.csv`
+    - ~~`./data/yangzi-delta_data_all.csv`~~
     - `./data/mturk_data_all.csv`
     - `./data/credamo_data_all.csv`
