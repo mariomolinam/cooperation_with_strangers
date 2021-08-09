@@ -11,7 +11,7 @@ This repository includes all materials to reproduce the results on the paper usi
 
 All code is written in `R`. 
 
-**Important Note:** On this Github repository, visitors can only see the code to reproduce results that use observational data (i.e. the Yangzi Delta study). To download the data that matches the code, please visit the Cornell Institute for Social and Economic Research ([CISER](https://archive.ciser.cornell.edu/reproduction-packages/2858)). You must agree to use these data <u>only</u> to reproduce the results on the paper.
+**Important Note:** On this Github repository, visitors can only see the code to reproduce results that use observational data (i.e. the Yangzi Delta study). To download the data that matches the code, please visit the Cornell Institute for Social and Economic Research ([CISER](https://archive.ciser.cornell.edu/reproduction-packages/2858)). You must agree to use these data **only** to reproduce the results on the paper.
 
 Pre-registration materials for the two experimental studies included in this repository can be found in these links: 
 
