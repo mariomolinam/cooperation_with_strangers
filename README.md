@@ -13,7 +13,7 @@ All code is written in `R`.
 
 **Important Note:** On this Github repository, visitors can only see the code to reproduce results that use observational data (i.e., the Yangzi Delta study). To download the data that matches the code, please visit the Cornell Institute for Social and Economic Research ([CISER](https://archive.ciser.cornell.edu/reproduction-packages/2858)). You must agree to use these data **only** to reproduce the results on the paper.
 
-Pre-registration materials for the two experimental studies on the paper can be found by clicking the following links: 
+Pre-registration materials for the two experimental studies on the paper can be found on the following links: 
 
 - Online experiment on Credamo: https://osf.io/tu8vc.
 - Online experiment on Amazon Mechanical Turk: https://osf.io/5mkz4.
@@ -23,15 +23,15 @@ Pre-registration materials for the two experimental studies on the paper can be 
 ### File description
 
 
-- `./master.R`: A file that runs all files within the `./code` folder. It uses relative paths to create new folders. 
+- `./master.R`: Code that runs all files within the `./code` folder. It uses relative paths to create new folders. 
 
 - `./code/yangzi-delta_study.R`: A file that reproduces analyses using data from a large random sample of CEOs of manufacturing firms in the Yangzi River Delta region of China. 
 
-- `./code/mturk_study.R`: A file that reproduces analyses from the online experiment on Amazon Mechanical Turk.
+- `./code/mturk_study.R`: A file that reproduces analyses from the online experiment on Amazon Mechanical Turk (AMT).
 
 - `./code/credamo_study.R`: A file that reproduces analyses from the online experiment on Credamo (a Chinese crowdsourcing site similar to AMT).
 
-- data/: A folder with the data used for analyses. It contains three .csv files:
+- data/: A folder with the data used for analyses. It contains ~three~ two .csv files:
     - ~~`./data/yangzi-delta_data_all.csv`~~
     - `./data/mturk_data_all.csv`
     - `./data/credamo_data_all.csv`
